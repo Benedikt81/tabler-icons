@@ -6,6 +6,13 @@
     "version": "1.106",
     "unicode": "f554"
   }, 
+  "24-hours": {
+    "name": "24-hours",
+    "category": "",
+    "tags": ["24", "hours", "icon", "stroke", "outline"],
+    "version": "1.113",
+    "unicode": "f5e7"
+  }, 
   "2fa": {
     "name": "2fa",
     "category": "",
@@ -3156,6 +3163,13 @@
     "version": "1.73",
     "unicode": "f230"
   }, 
+  "brand-amigo": {
+    "name": "brand-amigo",
+    "category": "Brand",
+    "tags": ["brand", "amigo", "icon", "stroke", "outline"],
+    "version": "1.114",
+    "unicode": "f5f9"
+  }, 
   "brand-amongus": {
     "name": "brand-amongus",
     "category": "Brand",
@@ -3176,6 +3190,13 @@
     "tags": ["brand", "angular", "programming", "coding", "TypeScript", "icon", "stroke", "outline"],
     "version": "1.45",
     "unicode": "ef6b"
+  }, 
+  "brand-ao3": {
+    "name": "brand-ao3",
+    "category": "Brand",
+    "tags": ["brand", "ao3", "icon", "stroke", "outline"],
+    "version": "1.113",
+    "unicode": "f5e8"
   }, 
   "brand-appgallery": {
     "name": "brand-appgallery",
@@ -3233,12 +3254,26 @@
     "version": "1.71",
     "unicode": "f206"
   }, 
+  "brand-baidu": {
+    "name": "brand-baidu",
+    "category": "Brand",
+    "tags": ["brand", "baidu", "icon", "stroke", "outline"],
+    "version": "1.113",
+    "unicode": "f5e9"
+  }, 
   "brand-bandcamp": {
     "name": "brand-bandcamp",
     "category": "Brand",
     "tags": ["brand", "bandcamp", "music", "website", "music company", "audio", "icon", "stroke", "outline"],
     "version": "1.71",
     "unicode": "f207"
+  }, 
+  "brand-bandlab": {
+    "name": "brand-bandlab",
+    "category": "Brand",
+    "tags": ["brand", "bandlab", "icon", "stroke", "outline"],
+    "version": "1.114",
+    "unicode": "f5fa"
   }, 
   "brand-beats": {
     "name": "brand-beats",
@@ -3317,6 +3352,13 @@
     "version": "1.86",
     "unicode": "f327"
   }, 
+  "brand-bumble": {
+    "name": "brand-bumble",
+    "category": "Brand",
+    "tags": ["brand", "bumble", "icon", "stroke", "outline"],
+    "version": "1.114",
+    "unicode": "f5fb"
+  }, 
   "brand-bunpo": {
     "name": "brand-bunpo",
     "category": "Brand",
@@ -3351,6 +3393,13 @@
     "tags": ["brand", "chrome", "browser", "internet", "web", "logo", "icon", "stroke", "outline"],
     "version": "1.9",
     "unicode": "ec18"
+  }, 
+  "brand-citymapper": {
+    "name": "brand-citymapper",
+    "category": "Brand",
+    "tags": ["brand", "citymapper", "icon", "stroke", "outline"],
+    "version": "1.114",
+    "unicode": "f5fc"
   }, 
   "brand-codecov": {
     "name": "brand-codecov",
@@ -3394,12 +3443,26 @@
     "version": "1.72",
     "unicode": "f217"
   }, 
+  "brand-coreos": {
+    "name": "brand-coreos",
+    "category": "Brand",
+    "tags": ["brand", "coreos", "icon", "stroke", "outline"],
+    "version": "1.114",
+    "unicode": "f5fd"
+  }, 
   "brand-couchsurfing": {
     "name": "brand-couchsurfing",
     "category": "Brand",
     "tags": ["brand", "couchsurfing", "app", "website", "accommodation", "lodging", "icon", "stroke", "outline"],
     "version": "1.92",
     "unicode": "f392"
+  }, 
+  "brand-cpp": {
+    "name": "brand-cpp",
+    "category": "Brand",
+    "tags": ["brand", "cpp", "icon", "stroke", "outline"],
+    "version": "1.114",
+    "unicode": "f5fe"
   }, 
   "brand-css3": {
     "name": "brand-css3",
@@ -3485,6 +3548,13 @@
     "version": "1.23",
     "unicode": "ecfb"
   }, 
+  "brand-dingtalk": {
+    "name": "brand-dingtalk",
+    "category": "Brand",
+    "tags": ["brand", "dingtalk", "icon", "stroke", "outline"],
+    "version": "1.113",
+    "unicode": "f5ea"
+  }, 
   "brand-discord": {
     "name": "brand-discord",
     "category": "Brand",
@@ -3534,6 +3604,13 @@
     "version": "1.99",
     "unicode": "f4d4"
   }, 
+  "brand-douban": {
+    "name": "brand-douban",
+    "category": "Brand",
+    "tags": ["brand", "douban", "icon", "stroke", "outline"],
+    "version": "1.114",
+    "unicode": "f5ff"
+  }, 
   "brand-dribbble": {
     "name": "brand-dribbble",
     "category": "Brand",
@@ -3575,6 +3652,13 @@
     "tags": ["brand", "envato", "community", "creative", "resources", "tools", "icon", "stroke", "outline"],
     "version": "1.92",
     "unicode": "f394"
+  }, 
+  "brand-evernote": {
+    "name": "brand-evernote",
+    "category": "Brand",
+    "tags": ["brand", "evernote", "icon", "stroke", "outline"],
+    "version": "1.114",
+    "unicode": "f600"
   }, 
   "brand-facebook": {
     "name": "brand-facebook",
@@ -3722,6 +3806,13 @@
     "tags": ["brand", "google", "fit", "health", "tracking", "platform", "software", "icon", "stroke", "outline"],
     "version": "1.79",
     "unicode": "f297"
+  }, 
+  "brand-google-home": {
+    "name": "brand-google-home",
+    "category": "Brand",
+    "tags": ["brand", "google", "home", "icon", "stroke", "outline"],
+    "version": "1.114",
+    "unicode": "f601"
   }, 
   "brand-google-one": {
     "name": "brand-google-one",
@@ -3926,6 +4017,13 @@
     "version": "1.75",
     "unicode": "f250"
   }, 
+  "brand-matrix": {
+    "name": "brand-matrix",
+    "category": "Brand",
+    "tags": ["brand", "matrix", "icon", "stroke", "outline"],
+    "version": "1.113",
+    "unicode": "f5eb"
+  }, 
   "brand-mcdonalds": {
     "name": "brand-mcdonalds",
     "category": "Brand",
@@ -3961,6 +4059,13 @@
     "version": "1.49",
     "unicode": "efb0"
   }, 
+  "brand-miniprogram": {
+    "name": "brand-miniprogram",
+    "category": "Brand",
+    "tags": ["brand", "miniprogram", "icon", "stroke", "outline"],
+    "version": "1.114",
+    "unicode": "f602"
+  }, 
   "brand-mixpanel": {
     "name": "brand-mixpanel",
     "category": "Brand",
@@ -3982,6 +4087,13 @@
     "version": "1.99",
     "unicode": "f4d7"
   }, 
+  "brand-national-geographic": {
+    "name": "brand-national-geographic",
+    "category": "Brand",
+    "tags": ["brand", "national", "geographic", "icon", "stroke", "outline"],
+    "version": "1.114",
+    "unicode": "f603"
+  }, 
   "brand-nem": {
     "name": "brand-nem",
     "category": "Brand",
@@ -3995,6 +4107,13 @@
     "tags": ["brand", "netbeans", "software", "programming", "tools", "Java", "mobile devices", "icon", "stroke", "outline"],
     "version": "1.45",
     "unicode": "ef71"
+  }, 
+  "brand-netease-music": {
+    "name": "brand-netease-music",
+    "category": "Brand",
+    "tags": ["brand", "netease", "music", "icon", "stroke", "outline"],
+    "version": "1.114",
+    "unicode": "f604"
   }, 
   "brand-netflix": {
     "name": "brand-netflix",
@@ -4080,6 +4199,13 @@
     "version": "1.112",
     "unicode": "f5d7"
   }, 
+  "brand-onlyfans": {
+    "name": "brand-onlyfans",
+    "category": "Brand",
+    "tags": ["brand", "onlyfans", "icon", "stroke", "outline"],
+    "version": "1.114",
+    "unicode": "f605"
+  }, 
   "brand-open-source": {
     "name": "brand-open-source",
     "category": "Brand",
@@ -4121,6 +4247,13 @@
     "tags": ["brand", "paypal", "logo", "enterprise", "service", "payment", "internet", "businessman", "consumer", "icon", "stroke", "outline"],
     "version": "1.9",
     "unicode": "ec22"
+  }, 
+  "brand-paypay": {
+    "name": "brand-paypay",
+    "category": "Brand",
+    "tags": ["brand", "paypay", "icon", "stroke", "outline"],
+    "version": "1.113",
+    "unicode": "f5ec"
   }, 
   "brand-peanut": {
     "name": "brand-peanut",
@@ -4171,6 +4304,13 @@
     "version": "1.96",
     "unicode": "f498"
   }, 
+  "brand-powershell": {
+    "name": "brand-powershell",
+    "category": "Brand",
+    "tags": ["brand", "powershell", "icon", "stroke", "outline"],
+    "version": "1.113",
+    "unicode": "f5ed"
+  }, 
   "brand-prisma": {
     "name": "brand-prisma",
     "category": "Brand",
@@ -4205,6 +4345,13 @@
     "tags": ["brand", "python", "logo", "language", "programming", "source", "icon", "stroke", "outline"],
     "version": "1.23",
     "unicode": "ed01"
+  }, 
+  "brand-qq": {
+    "name": "brand-qq",
+    "category": "Brand",
+    "tags": ["brand", "qq", "icon", "stroke", "outline"],
+    "version": "1.114",
+    "unicode": "f606"
   }, 
   "brand-react-native": {
     "name": "brand-react-native",
@@ -4346,6 +4493,13 @@
     "version": "1.96",
     "unicode": "f49b"
   }, 
+  "brand-solidjs": {
+    "name": "brand-solidjs",
+    "category": "Brand",
+    "tags": ["brand", "solidjs", "icon", "stroke", "outline"],
+    "version": "1.113",
+    "unicode": "f5ee"
+  }, 
   "brand-soundcloud": {
     "name": "brand-soundcloud",
     "category": "Brand",
@@ -4374,6 +4528,13 @@
     "version": "1.43",
     "unicode": "ef58"
   }, 
+  "brand-stackshare": {
+    "name": "brand-stackshare",
+    "category": "Brand",
+    "tags": ["brand", "stackshare", "icon", "stroke", "outline"],
+    "version": "1.114",
+    "unicode": "f607"
+  }, 
   "brand-steam": {
     "name": "brand-steam",
     "category": "Brand",
@@ -4387,6 +4548,13 @@
     "tags": ["brand", "storybook", "tool", "creation", "interface", "application", "icon", "stroke", "outline"],
     "version": "1.86",
     "unicode": "f332"
+  }, 
+  "brand-storytel": {
+    "name": "brand-storytel",
+    "category": "Brand",
+    "tags": ["brand", "storytel", "icon", "stroke", "outline"],
+    "version": "1.114",
+    "unicode": "f608"
   }, 
   "brand-strava": {
     "name": "brand-strava",
@@ -4451,6 +4619,13 @@
     "version": "1.17",
     "unicode": "eca1"
   }, 
+  "brand-taobao": {
+    "name": "brand-taobao",
+    "category": "Brand",
+    "tags": ["brand", "taobao", "icon", "stroke", "outline"],
+    "version": "1.113",
+    "unicode": "f5ef"
+  }, 
   "brand-telegram": {
     "name": "brand-telegram",
     "category": "Brand",
@@ -4464,6 +4639,13 @@
     "tags": ["brand", "tether", "icon", "stroke", "outline"],
     "version": "1.110",
     "unicode": "f5a3"
+  }, 
+  "brand-threejs": {
+    "name": "brand-threejs",
+    "category": "Brand",
+    "tags": ["brand", "threejs", "icon", "stroke", "outline"],
+    "version": "1.113",
+    "unicode": "f5f0"
   }, 
   "brand-tidal": {
     "name": "brand-tidal",
@@ -4542,6 +4724,13 @@
     "version": "1.18",
     "unicode": "ec27"
   }, 
+  "brand-typescript": {
+    "name": "brand-typescript",
+    "category": "Brand",
+    "tags": ["brand", "typescript", "icon", "stroke", "outline"],
+    "version": "1.113",
+    "unicode": "f5f1"
+  }, 
   "brand-uber": {
     "name": "brand-uber",
     "category": "Brand",
@@ -4619,6 +4808,13 @@
     "version": "1.45",
     "unicode": "ef76"
   }, 
+  "brand-vite": {
+    "name": "brand-vite",
+    "category": "Brand",
+    "tags": ["brand", "vite", "icon", "stroke", "outline"],
+    "version": "1.113",
+    "unicode": "f5f2"
+  }, 
   "brand-vivaldi": {
     "name": "brand-vivaldi",
     "category": "Brand",
@@ -4681,6 +4877,20 @@
     "tags": ["brand", "webflow", "web", "website", "creation", "icon", "stroke", "outline"],
     "version": "1.82",
     "unicode": "f2d2"
+  }, 
+  "brand-wechat": {
+    "name": "brand-wechat",
+    "category": "Brand",
+    "tags": ["brand", "wechat", "icon", "stroke", "outline"],
+    "version": "1.113",
+    "unicode": "f5f3"
+  }, 
+  "brand-weibo": {
+    "name": "brand-weibo",
+    "category": "Brand",
+    "tags": ["brand", "weibo", "icon", "stroke", "outline"],
+    "version": "1.114",
+    "unicode": "f609"
   }, 
   "brand-whatsapp": {
     "name": "brand-whatsapp",
@@ -4793,6 +5003,13 @@
     "tags": ["brand", "zeit", "consulting", "software", "icon", "stroke", "outline"],
     "version": "1.86",
     "unicode": "f335"
+  }, 
+  "brand-zhihu": {
+    "name": "brand-zhihu",
+    "category": "Brand",
+    "tags": ["brand", "zhihu", "icon", "stroke", "outline"],
+    "version": "1.114",
+    "unicode": "f60a"
   }, 
   "brand-zoom": {
     "name": "brand-zoom",
@@ -10968,6 +11185,13 @@
     "version": "1.39",
     "unicode": "ee97"
   }, 
+  "hand-sanitizer": {
+    "name": "hand-sanitizer",
+    "category": "",
+    "tags": ["hand", "sanitizer", "icon", "stroke", "outline"],
+    "version": "1.113",
+    "unicode": "f5f4"
+  }, 
   "hand-stop": {
     "name": "hand-stop",
     "category": "Gestures",
@@ -13663,6 +13887,13 @@
     "version": "1.11",
     "unicode": "ec42"
   }, 
+  "menu-order": {
+    "name": "menu-order",
+    "category": "System",
+    "tags": ["menu", "order", "icon", "stroke", "outline"],
+    "version": "1.113",
+    "unicode": "f5f5"
+  }, 
   "menu": {
     "name": "menu",
     "category": "System",
@@ -15238,6 +15469,13 @@
     "version": "1.43",
     "unicode": "ef52"
   }, 
+  "pilcrow": {
+    "name": "pilcrow",
+    "category": "Text",
+    "tags": ["pilcrow", "icon", "stroke", "outline"],
+    "version": "1.113",
+    "unicode": "f5f6"
+  }, 
   "pill-off": {
     "name": "pill-off",
     "category": "Health",
@@ -16582,6 +16820,13 @@
     "version": "1.102",
     "unicode": "f519"
   }, 
+  "sailboat-2": {
+    "name": "sailboat-2",
+    "category": "Vehicles",
+    "tags": ["sailboat", "2", "icon", "stroke", "outline"],
+    "version": "1.113",
+    "unicode": "f5f7"
+  }, 
   "sailboat-off": {
     "name": "sailboat-off",
     "category": "Vehicles",
@@ -17148,6 +17393,13 @@
     "tags": ["shoe", "sport", "boots", "boot", "footwear", "sneaker", "nike", "adidas", "icon", "stroke", "outline"],
     "version": "1.50",
     "unicode": "efd2"
+  }, 
+  "shopping-bag": {
+    "name": "shopping-bag",
+    "category": "E-commerce",
+    "tags": ["shopping", "bag", "icon", "stroke", "outline"],
+    "version": "1.113",
+    "unicode": "f5f8"
   }, 
   "shopping-cart-discount": {
     "name": "shopping-cart-discount",
