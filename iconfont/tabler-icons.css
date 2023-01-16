@@ -1,5 +1,5 @@
 /*!
- * Tabler Icons 1.115.0 by tabler - https://tabler.io
+ * Tabler Icons 1.119.0 by tabler - https://tabler.io
  * License - https://github.com/tabler/tabler-icons/blob/master/LICENSE
  */
 @font-face {
@@ -40,6 +40,10 @@
 
 .ti-2fa:before {
   content: "\eca0";
+}
+
+.ti-360:before {
+  content: "\f62f";
 }
 
 .ti-360-view:before {
@@ -166,8 +170,20 @@
   content: "\ea04";
 }
 
+.ti-alarm-minus:before {
+  content: "\f630";
+}
+
 .ti-alarm-off:before {
   content: "\f0a9";
+}
+
+.ti-alarm-plus:before {
+  content: "\f631";
+}
+
+.ti-alarm-snooze:before {
+  content: "\f632";
 }
 
 .ti-album:before {
@@ -582,6 +598,10 @@
   content: "\ea12";
 }
 
+.ti-arrow-down-rhombus:before {
+  content: "\f61d";
+}
+
 .ti-arrow-down-right:before {
   content: "\ea15";
 }
@@ -628,6 +648,10 @@
 
 .ti-arrow-left-circle:before {
   content: "\ea18";
+}
+
+.ti-arrow-left-rhombus:before {
+  content: "\f61e";
 }
 
 .ti-arrow-left-right:before {
@@ -742,6 +766,10 @@
   content: "\ea1e";
 }
 
+.ti-arrow-right-rhombus:before {
+  content: "\f61f";
+}
+
 .ti-arrow-right-square:before {
   content: "\eda2";
 }
@@ -812,6 +840,10 @@
 
 .ti-arrow-up-left-circle:before {
   content: "\ea21";
+}
+
+.ti-arrow-up-rhombus:before {
+  content: "\f620";
 }
 
 .ti-arrow-up-right:before {
@@ -1854,6 +1886,10 @@
   content: "\f230";
 }
 
+.ti-brand-amd:before {
+  content: "\f653";
+}
+
 .ti-brand-amigo:before {
   content: "\f5f9";
 }
@@ -2146,6 +2182,10 @@
   content: "\f394";
 }
 
+.ti-brand-etsy:before {
+  content: "\f654";
+}
+
 .ti-brand-evernote:before {
   content: "\f600";
 }
@@ -2196,6 +2236,10 @@
 
 .ti-brand-framer:before {
   content: "\ec1b";
+}
+
+.ti-brand-funimation:before {
+  content: "\f655";
 }
 
 .ti-brand-gatsby:before {
@@ -2258,6 +2302,10 @@
   content: "\ed25";
 }
 
+.ti-brand-google-podcasts:before {
+  content: "\f656";
+}
+
 .ti-brand-grammarly:before {
   content: "\f32b";
 }
@@ -2280,6 +2328,10 @@
 
 .ti-brand-gumroad:before {
   content: "\f5d6";
+}
+
+.ti-brand-hbo:before {
+  content: "\f657";
 }
 
 .ti-brand-headlessui:before {
@@ -2722,6 +2774,10 @@
   content: "\f5ef";
 }
 
+.ti-brand-ted:before {
+  content: "\f658";
+}
+
 .ti-brand-telegram:before {
   content: "\ec26";
 }
@@ -3138,6 +3194,10 @@
   content: "\ec39";
 }
 
+.ti-building-stadium:before {
+  content: "\f641";
+}
+
 .ti-building-store:before {
   content: "\ea4e";
 }
@@ -3216,6 +3276,10 @@
 
 .ti-calendar:before {
   content: "\ea53";
+}
+
+.ti-calendar-due:before {
+  content: "\f621";
 }
 
 .ti-calendar-event:before {
@@ -3350,6 +3414,14 @@
   content: "\eb60";
 }
 
+.ti-carousel-horizontal:before {
+  content: "\f659";
+}
+
+.ti-carousel-vertical:before {
+  content: "\f65a";
+}
+
 .ti-carrot:before {
   content: "\f21c";
 }
@@ -3380,6 +3452,10 @@
 
 .ti-cast-off:before {
   content: "\f0c9";
+}
+
+.ti-cat:before {
+  content: "\f65b";
 }
 
 .ti-category:before {
@@ -3532,6 +3608,10 @@
 
 .ti-chart-grid-dots:before {
   content: "\f4c2";
+}
+
+.ti-chart-histogram:before {
+  content: "\f65c";
 }
 
 .ti-chart-infographic:before {
@@ -3738,6 +3818,38 @@
   content: "\ea67";
 }
 
+.ti-circle-chevron-down:before {
+  content: "\f622";
+}
+
+.ti-circle-chevron-left:before {
+  content: "\f623";
+}
+
+.ti-circle-chevron-right:before {
+  content: "\f624";
+}
+
+.ti-circle-chevron-up:before {
+  content: "\f625";
+}
+
+.ti-circle-chevrons-down:before {
+  content: "\f642";
+}
+
+.ti-circle-chevrons-left:before {
+  content: "\f643";
+}
+
+.ti-circle-chevrons-right:before {
+  content: "\f644";
+}
+
+.ti-circle-chevrons-up:before {
+  content: "\f645";
+}
+
 .ti-circle-dashed:before {
   content: "\ed27";
 }
@@ -3760,6 +3872,10 @@
 
 .ti-circle-half-vertical:before {
   content: "\ee3e";
+}
+
+.ti-circle-key:before {
+  content: "\f633";
 }
 
 .ti-circle-letter-a:before {
@@ -4310,6 +4426,10 @@
   content: "\f2c3";
 }
 
+.ti-coins:before {
+  content: "\f65d";
+}
+
 .ti-color-filter:before {
   content: "\f5a8";
 }
@@ -4650,6 +4770,10 @@
   content: "\efa6";
 }
 
+.ti-currency-afghani:before {
+  content: "\f65e";
+}
+
 .ti-currency-bahraini:before {
   content: "\ee51";
 }
@@ -4800,6 +4924,10 @@
 
 .ti-currency-paanga:before {
   content: "\f378";
+}
+
+.ti-currency-peso:before {
+  content: "\f65f";
 }
 
 .ti-currency-pound:before {
@@ -4970,6 +5098,10 @@
   content: "\f5a9";
 }
 
+.ti-device-airpods-case:before {
+  content: "\f646";
+}
+
 .ti-device-analytics:before {
   content: "\ee72";
 }
@@ -5024,6 +5156,18 @@
 
 .ti-device-heart-monitor:before {
   content: "\f060";
+}
+
+.ti-device-ipad:before {
+  content: "\f648";
+}
+
+.ti-device-ipad-horizontal:before {
+  content: "\f647";
+}
+
+.ti-device-landline-phone:before {
+  content: "\f649";
 }
 
 .ti-device-laptop:before {
@@ -5290,6 +5434,10 @@
   content: "\f11a";
 }
 
+.ti-dog:before {
+  content: "\f660";
+}
+
 .ti-dog-bowl:before {
   content: "\ef29";
 }
@@ -5520,6 +5668,10 @@
 
 .ti-exchange-off:before {
   content: "\f123";
+}
+
+.ti-exclamation-circle:before {
+  content: "\f634";
 }
 
 .ti-exclamation-mark:before {
@@ -7046,6 +7198,10 @@
   content: "\eac6";
 }
 
+.ti-info-square-rounded:before {
+  content: "\f635";
+}
+
 .ti-inner-shadow-bottom:before {
   content: "\f520";
 }
@@ -7108,6 +7264,10 @@
 
 .ti-italic:before {
   content: "\eb93";
+}
+
+.ti-jacket:before {
+  content: "\f661";
 }
 
 .ti-jetpack:before {
@@ -7672,6 +7832,10 @@
 
 .ti-lock-square:before {
   content: "\ef51";
+}
+
+.ti-lock-square-rounded:before {
+  content: "\f636";
 }
 
 .ti-logic-and:before {
@@ -8982,6 +9146,10 @@
   content: "\f179";
 }
 
+.ti-placeholder:before {
+  content: "\f626";
+}
+
 .ti-plane:before {
   content: "\eb6f";
 }
@@ -9272,6 +9440,10 @@
 
 .ti-qrcode-off:before {
   content: "\f41e";
+}
+
+.ti-question-circle:before {
+  content: "\f637";
 }
 
 .ti-question-mark:before {
@@ -9780,6 +9952,10 @@
 
 .ti-school:before {
   content: "\ecf7";
+}
+
+.ti-school-bell:before {
+  content: "\f64a";
 }
 
 .ti-school-off:before {
@@ -10346,6 +10522,38 @@
   content: "\eb28";
 }
 
+.ti-square-chevron-down:before {
+  content: "\f627";
+}
+
+.ti-square-chevron-left:before {
+  content: "\f628";
+}
+
+.ti-square-chevron-right:before {
+  content: "\f629";
+}
+
+.ti-square-chevron-up:before {
+  content: "\f62a";
+}
+
+.ti-square-chevrons-down:before {
+  content: "\f64b";
+}
+
+.ti-square-chevrons-left:before {
+  content: "\f64c";
+}
+
+.ti-square-chevrons-right:before {
+  content: "\f64d";
+}
+
+.ti-square-chevrons-up:before {
+  content: "\f64e";
+}
+
 .ti-square-dot:before {
   content: "\ed59";
 }
@@ -10400,6 +10608,10 @@
 
 .ti-square-half:before {
   content: "\effb";
+}
+
+.ti-square-key:before {
+  content: "\f638";
 }
 
 .ti-square-letter-a:before {
@@ -10586,6 +10798,58 @@
   content: "\f59a";
 }
 
+.ti-square-rounded-arrow-down:before {
+  content: "\f639";
+}
+
+.ti-square-rounded-arrow-left:before {
+  content: "\f63a";
+}
+
+.ti-square-rounded-arrow-right:before {
+  content: "\f63b";
+}
+
+.ti-square-rounded-arrow-up:before {
+  content: "\f63c";
+}
+
+.ti-square-rounded-check:before {
+  content: "\f63d";
+}
+
+.ti-square-rounded-chevron-down:before {
+  content: "\f62b";
+}
+
+.ti-square-rounded-chevron-left:before {
+  content: "\f62c";
+}
+
+.ti-square-rounded-chevron-right:before {
+  content: "\f62d";
+}
+
+.ti-square-rounded-chevron-up:before {
+  content: "\f62e";
+}
+
+.ti-square-rounded-chevrons-down:before {
+  content: "\f64f";
+}
+
+.ti-square-rounded-chevrons-left:before {
+  content: "\f650";
+}
+
+.ti-square-rounded-chevrons-right:before {
+  content: "\f651";
+}
+
+.ti-square-rounded-chevrons-up:before {
+  content: "\f652";
+}
+
 .ti-square-rounded-letter-a:before {
   content: "\f5ae";
 }
@@ -10690,6 +10954,10 @@
   content: "\f5c7";
 }
 
+.ti-square-rounded-minus:before {
+  content: "\f63e";
+}
+
 .ti-square-rounded-number-0:before {
   content: "\f5c8";
 }
@@ -10728,6 +10996,14 @@
 
 .ti-square-rounded-number-9:before {
   content: "\f5d1";
+}
+
+.ti-square-rounded-plus:before {
+  content: "\f63f";
+}
+
+.ti-square-rounded-x:before {
+  content: "\f640";
 }
 
 .ti-square-toggle:before {
@@ -11236,6 +11512,26 @@
 
 .ti-timeline-event:before {
   content: "\f553";
+}
+
+.ti-timeline-event-exclamation:before {
+  content: "\f662";
+}
+
+.ti-timeline-event-minus:before {
+  content: "\f663";
+}
+
+.ti-timeline-event-plus:before {
+  content: "\f664";
+}
+
+.ti-timeline-event-text:before {
+  content: "\f665";
+}
+
+.ti-timeline-event-x:before {
+  content: "\f666";
 }
 
 .ti-tir:before {

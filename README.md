@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-    A set of <!--icons-count-->3054<!--/icons-count--> free MIT-licensed high-quality SVG icons for you to use in your web projects. Each icon is designed on a 24x24 grid and a 2px stroke.
+    A set of <!--icons-count-->3128<!--/icons-count--> free MIT-licensed high-quality SVG icons for you to use in your web projects. Each icon is designed on a 24x24 grid and a 2px stroke.
 <p>
 
 <p align="center">
@@ -256,7 +256,7 @@ By default the stroke width is 2. You can change the stroke width in the `compil
 }
 ```
 
-To reduce the font file size you can choose to compile a sub set of icons. When you leave the array empty it will compile all the fonts. To compile only two icons you can set for example the folowing option in the `compile-options.json`:
+To reduce the font file size you can choose to compile a sub set of icons. When you leave the array empty it will compile all the fonts. To compile only two icons you can set for example the following option in the `compile-options.json`:
 
 ```JSON
 {
@@ -264,7 +264,7 @@ To reduce the font file size you can choose to compile a sub set of icons. When 
 }
 ```
 
-Optional property `includeCategories` - an array or string of icon categories to include, category names are case-issensetive.
+Optional property `includeCategories` - an array or string of icon categories to include, category names are case-insensitive.
 ```JSON
 {
   "includeCategories": ["Devices", "System"]
