@@ -1,18 +1,13 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/tabler/tabler-icons/master/.github/og.png" alt="Tabler Icons" width="838">
+  <img src="https://raw.githubusercontent.com/tabler/tabler-icons/master/.github/packages/og-core.png" alt="Tabler Icons" width="838">
 </p>
 
 <p align="center">
-    A set of <!--icons-count-->3128<!--/icons-count--> free MIT-licensed high-quality SVG icons for you to use in your web projects. Each icon is designed on a 24x24 grid and a 2px stroke.
+    A set of <!--icons-count-->3222<!--/icons-count--> free MIT-licensed high-quality SVG icons for you to use in your web projects. Each icon is designed on a 24x24 grid and a 2px stroke.
 <p>
 
 <p align="center">
   <a href="https://tabler-icons.io/"><strong>Browse at tabler-icons.io &rarr;</strong></a>
-</p>
-
-<p align="center">
-    <a href="https://github.com/tabler/tabler-icons/releases"><img src="https://img.shields.io/npm/v/@tabler/icons" alt="Latest Release"></a>
-    <a href="https://github.com/tabler/tabler-icons/blob/master/LICENSE"><img src="https://img.shields.io/npm/l/@tabler/icons.svg" alt="License"></a>
 </p>
 
 
@@ -33,10 +28,6 @@
     <img src="https://raw.githubusercontent.com/tabler/tabler-icons/master/.github/icons.png" alt="Tabler Icons preview" width="838">
   </picture>
 </p>
-
-## Sponsor Tabler
-
-<a href="https://github.com/sponsors/codecalm" target="_blank"><img src="https://github.com/tabler/tabler/raw/dev/src/static/sponsor-banner-readme.png?raw=true" alt="Sponsor Tabler" /></a>
 
 
 ## Installation
@@ -106,10 +97,10 @@ Add an icon to be displayed on your page with the following markup (`activity` i
 
 ### React
 
-Import the icon and render it in your component. You can adjust SVG properties through React props:
+React components available through [`@tabler/icons-react`](https://www.npmjs.com/package/@tabler/icons-react) package.
 
 ```jsx
-import { IconAward } from '@tabler/icons';
+import { IconAward } from '@tabler/icons-react';
 
 const MyComponent = () => {
   return <IconAward 
@@ -121,7 +112,31 @@ const MyComponent = () => {
 }
 ```
 
-`@tabler/icons` exports it's own type declarations for usage with React and Typescript.
+`@tabler/icons-react` exports it's own type declarations for usage with React and Typescript.
+
+For more details, see the [documentation](https://github.com/tabler/tabler-icons/tree/master/packages/icons-react).
+
+### Vue
+
+Vue components available through [`@tabler/icons-vue`](https://www.npmjs.com/package/@tabler/icons-vue) package.
+
+```vue
+<template>
+  <IconHome />
+</template>
+
+<script>
+// Returns Vue component
+import { IconHome } from '@tabler/icons-vue';
+
+export default {
+  components: { IconHome }
+};
+</script>
+```
+
+For more details, see the [documentation](https://github.com/tabler/tabler-icons/tree/master/packages/icons-vue).
+
 
 ### Angular
 
@@ -164,31 +179,7 @@ After importing the _IconsModule_ in your feature or shared module, use the icon
 
 For more usage documentation refer to [the official documentation](https://github.com/pierreavn/angular-tabler-icons).
 
-### Vue
-
-Vue components available through [`vue-tabler-icons`](https://www.npmjs.com/package/vue-tabler-icons) package.
-Install the package, import the icon component and render it in your component. You can adjust SVG properties by passing regular HTML attributes:
-
-```html
-<script>
-    // MyComponent.vue
-    import { BoldIcon } from 'vue-tabler-icons';
-
-    export default {
-        components: { BoldIcon },
-    };
-</script>
-
-<template>
-    <bold-icon />
-</template>
-```
-
-`vue-tabler-icons` exports it's own type declarations for usage with Typescript.
-
-For more usage documentation refer to [the official documentation](https://github.com/alex-oleshkevich/vue-tabler-icons).
-
-### CDN
+## CDN
 
 All files included in `@tabler/icons` npm package are available over a CDN.
 
@@ -325,3 +316,8 @@ All icons in this repository have been created with the value of the `stroke-wid
 ## License
 
 Tabler Icons is licensed under the [MIT License](https://github.com/tabler/tabler-icons/blob/master/LICENSE).
+
+
+## Sponsor Tabler
+
+<a href="https://github.com/sponsors/codecalm" target="_blank"><img src="https://github.com/tabler/tabler/raw/dev/src/static/sponsor-banner-readme.png?raw=true" alt="Sponsor Tabler" /></a>
