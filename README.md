@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-    A set of <!--icons-count-->3222<!--/icons-count--> free MIT-licensed high-quality SVG icons for you to use in your web projects. Each icon is designed on a 24x24 grid and a 2px stroke.
+    A set of <!--icons-count-->3455<!--/icons-count--> free MIT-licensed high-quality SVG icons for you to use in your web projects. Each icon is designed on a 24x24 grid and a 2px stroke.
 <p>
 
 <p align="center">
@@ -179,6 +179,22 @@ After importing the _IconsModule_ in your feature or shared module, use the icon
 
 For more usage documentation refer to [the official documentation](https://github.com/pierreavn/angular-tabler-icons).
 
+### Svelte
+
+Svelte components available through [`@tabler/icons-svelte`](https://github.com/tabler/tabler-icons/tree/master/packages/icons-svelte) package.
+
+```js
+<script lang="ts">
+  import { IconHeart } from '@tabler/icons-svelte';
+</script>
+
+<main>
+  <IconHeart size={48} stroke={1} />
+  <IconHeart size="32" stroke="1.5" />
+  <IconHeart color="crimson" class="p-1" size="96" stroke="2" />
+</main>
+```
+
 ## CDN
 
 All files included in `@tabler/icons` npm package are available over a CDN.
@@ -283,20 +299,6 @@ Complex solution:
   "includeCategories": ["devices", "system"],
   "excludeIcons": ["adjustments"]
 }
-```
-
-### Svelte
-
-You can use [`tabler-icons-svelte`](https://github.com/benflap/tabler-icons-svelte) to use icons in your Svelte projects (see [example](https://svelte.dev/repl/e80dc63d7019431692b10a77525e7f99?version=3.31.0)):
-
-```js
-<script>
-    import { CurrencyBitcoin, BrandGithub, CircleX } from "tabler-icons-svelte";
-</script>
-
-<CurrencyBitcoin />
-<BrandGithub size="48" strokeWidth="1" />
-<CircleX />
 ```
 
 ### Jetpack Compose

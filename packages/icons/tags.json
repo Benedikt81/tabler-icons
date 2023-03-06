@@ -111,6 +111,13 @@
     "version": "1.25",
     "unicode": "ed1b"
   }, 
+  "accessible-off-filled": {
+    "name": "accessible-off-filled",
+    "category": "Filled",
+    "tags": ["accessible", "off", "filled", "low-vision", "blind", "disability", "handicapped", "icon", "stroke", "outline"],
+    "version": "2.3",
+    "unicode": "f6ea"
+  }, 
   "accessible-off": {
     "name": "accessible-off",
     "category": "",
@@ -145,6 +152,27 @@
     "tags": ["ad", "2", "advert", "advertisement", "marketing", "commercial", "traffic", "icon", "stroke", "outline"],
     "version": "1.41",
     "unicode": "ef1f"
+  }, 
+  "ad-circle-off": {
+    "name": "ad-circle-off",
+    "category": "",
+    "tags": ["ad", "circle", "off", "icon", "stroke", "outline"],
+    "version": "2.6",
+    "unicode": "f79d"
+  }, 
+  "ad-circle": {
+    "name": "ad-circle",
+    "category": "",
+    "tags": ["ad", "circle", "icon", "stroke", "outline"],
+    "version": "2.6",
+    "unicode": "f79e"
+  }, 
+  "ad-filled": {
+    "name": "ad-filled",
+    "category": "Filled",
+    "tags": ["ad", "filled", "advert", "advertisement", "marketing", "commercial", "traffic", "icon", "stroke", "outline"],
+    "version": "2.3",
+    "unicode": "f6eb"
   }, 
   "ad-off": {
     "name": "ad-off",
@@ -181,6 +209,13 @@
     "version": "1.11",
     "unicode": "ec37"
   }, 
+  "adjustments-filled": {
+    "name": "adjustments-filled",
+    "category": "Filled",
+    "tags": ["adjustments", "filled", "equalizer", "sliders", "controls", "settings", "filter", "icon", "stroke", "outline"],
+    "version": "2.3",
+    "unicode": "f6ec"
+  }, 
   "adjustments-horizontal": {
     "name": "adjustments-horizontal",
     "category": "System",
@@ -208,6 +243,13 @@
     "tags": ["aerial", "lift", "cable", "car", "gondola", "mountains", "ski", "tramway", "icon", "stroke", "outline"],
     "version": "1.39",
     "unicode": "edfe"
+  }, 
+  "affiliate-filled": {
+    "name": "affiliate-filled",
+    "category": "Filled",
+    "tags": ["affiliate", "filled", "network", "connection", "collaboration", "people", "connect", "organization", "networking", "icon", "stroke", "outline"],
+    "version": "2.3",
+    "unicode": "f6ed"
   }, 
   "affiliate": {
     "name": "affiliate",
@@ -237,6 +279,20 @@
     "version": "1.93",
     "unicode": "f3a2"
   }, 
+  "alarm-filled": {
+    "name": "alarm-filled",
+    "category": "Filled",
+    "tags": ["alarm", "filled", "time", "watch", "clock", "ring", "icon", "stroke", "outline"],
+    "version": "2.4",
+    "unicode": "f709"
+  }, 
+  "alarm-minus-filled": {
+    "name": "alarm-minus-filled",
+    "category": "Filled",
+    "tags": ["alarm", "minus", "filled", "icon", "stroke", "outline"],
+    "version": "2.4",
+    "unicode": "f70a"
+  }, 
   "alarm-minus": {
     "name": "alarm-minus",
     "category": "",
@@ -251,12 +307,26 @@
     "version": "1.62",
     "unicode": "f0a9"
   }, 
+  "alarm-plus-filled": {
+    "name": "alarm-plus-filled",
+    "category": "Filled",
+    "tags": ["alarm", "plus", "filled", "icon", "stroke", "outline"],
+    "version": "2.4",
+    "unicode": "f70b"
+  }, 
   "alarm-plus": {
     "name": "alarm-plus",
     "category": "",
     "tags": ["alarm", "plus", "icon", "stroke", "outline"],
     "version": "1.117",
     "unicode": "f631"
+  }, 
+  "alarm-snooze-filled": {
+    "name": "alarm-snooze-filled",
+    "category": "Filled",
+    "tags": ["alarm", "snooze", "filled", "icon", "stroke", "outline"],
+    "version": "2.4",
+    "unicode": "f70c"
   }, 
   "alarm-snooze": {
     "name": "alarm-snooze",
@@ -286,12 +356,26 @@
     "version": "1.55",
     "unicode": "f022"
   }, 
+  "alert-circle-filled": {
+    "name": "alert-circle-filled",
+    "category": "Filled",
+    "tags": ["alert", "circle", "filled", "warning", "danger", "caution", "risk", "icon", "stroke", "outline"],
+    "version": "2.3",
+    "unicode": "f6ee"
+  }, 
   "alert-circle": {
     "name": "alert-circle",
     "category": "",
     "tags": ["alert", "circle", "warning", "danger", "caution", "risk", "icon", "stroke", "outline"],
     "version": "1.0",
     "unicode": "ea05"
+  }, 
+  "alert-octagon-filled": {
+    "name": "alert-octagon-filled",
+    "category": "Filled",
+    "tags": ["alert", "octagon", "filled", "warning", "danger", "caution", "risk", "icon", "stroke", "outline"],
+    "version": "2.3",
+    "unicode": "f6ef"
   }, 
   "alert-octagon": {
     "name": "alert-octagon",
@@ -300,12 +384,26 @@
     "version": "1.19",
     "unicode": "ecc6"
   }, 
+  "alert-triangle-filled": {
+    "name": "alert-triangle-filled",
+    "category": "Filled",
+    "tags": ["alert", "triangle", "filled", "warning", "danger", "caution", "risk", "icon", "stroke", "outline"],
+    "version": "2.3",
+    "unicode": "f6f0"
+  }, 
   "alert-triangle": {
     "name": "alert-triangle",
     "category": "",
     "tags": ["alert", "triangle", "warning", "danger", "caution", "risk", "icon", "stroke", "outline"],
     "version": "1.0",
     "unicode": "ea06"
+  }, 
+  "alien-filled": {
+    "name": "alien-filled",
+    "category": "Filled",
+    "tags": ["alien", "filled", "universe", "extraterrestrial", "ufo", "space", "galaxy", "planet", "icon", "stroke", "outline"],
+    "version": "2.4",
+    "unicode": "f70d"
   }, 
   "alien": {
     "name": "alien",
@@ -314,12 +412,26 @@
     "version": "1.7",
     "unicode": "ebde"
   }, 
+  "align-box-bottom-center-filled": {
+    "name": "align-box-bottom-center-filled",
+    "category": "Filled",
+    "tags": ["align", "box", "bottom", "center", "filled", "text", "type", "down", "south", "icon", "stroke", "outline"],
+    "version": "2.4",
+    "unicode": "f70e"
+  }, 
   "align-box-bottom-center": {
     "name": "align-box-bottom-center",
     "category": "Text",
     "tags": ["align", "box", "bottom", "center", "text", "type", "down", "south", "icon", "stroke", "outline"],
     "version": "1.104",
     "unicode": "f530"
+  }, 
+  "align-box-bottom-left-filled": {
+    "name": "align-box-bottom-left-filled",
+    "category": "Filled",
+    "tags": ["align", "box", "bottom", "left", "filled", "text", "type", "west", "corner", "icon", "stroke", "outline"],
+    "version": "2.4",
+    "unicode": "f70f"
   }, 
   "align-box-bottom-left": {
     "name": "align-box-bottom-left",
@@ -328,12 +440,33 @@
     "version": "1.104",
     "unicode": "f531"
   }, 
+  "align-box-bottom-right-filled": {
+    "name": "align-box-bottom-right-filled",
+    "category": "Filled",
+    "tags": ["align", "box", "bottom", "right", "filled", "text", "type", "east", "corner", "icon", "stroke", "outline"],
+    "version": "2.4",
+    "unicode": "f710"
+  }, 
   "align-box-bottom-right": {
     "name": "align-box-bottom-right",
     "category": "Text",
     "tags": ["align", "box", "bottom", "right", "text", "type", "east", "corner", "icon", "stroke", "outline"],
     "version": "1.104",
     "unicode": "f532"
+  }, 
+  "align-box-center-middle": {
+    "name": "align-box-center-middle",
+    "category": "Text",
+    "tags": ["align", "box", "center", "middle", "icon", "stroke", "outline"],
+    "version": "2.6",
+    "unicode": "f79f"
+  }, 
+  "align-box-left-bottom-filled": {
+    "name": "align-box-left-bottom-filled",
+    "category": "Filled",
+    "tags": ["align", "box", "left", "bottom", "filled", "text", "type", "west", "down", "south", "corner", "icon", "stroke", "outline"],
+    "version": "2.4",
+    "unicode": "f711"
   }, 
   "align-box-left-bottom": {
     "name": "align-box-left-bottom",
@@ -342,6 +475,13 @@
     "version": "1.104",
     "unicode": "f533"
   }, 
+  "align-box-left-middle-filled": {
+    "name": "align-box-left-middle-filled",
+    "category": "Filled",
+    "tags": ["align", "box", "left", "middle", "filled", "text", "type", "west", "icon", "stroke", "outline"],
+    "version": "2.4",
+    "unicode": "f712"
+  }, 
   "align-box-left-middle": {
     "name": "align-box-left-middle",
     "category": "Text",
@@ -349,12 +489,26 @@
     "version": "1.104",
     "unicode": "f534"
   }, 
+  "align-box-left-top-filled": {
+    "name": "align-box-left-top-filled",
+    "category": "Filled",
+    "tags": ["align", "box", "left", "top", "filled", "text", "type", "west", "up", "north", "corner", "icon", "stroke", "outline"],
+    "version": "2.4",
+    "unicode": "f713"
+  }, 
   "align-box-left-top": {
     "name": "align-box-left-top",
     "category": "Text",
     "tags": ["align", "box", "left", "top", "text", "type", "west", "up", "north", "corner", "icon", "stroke", "outline"],
     "version": "1.104",
     "unicode": "f535"
+  }, 
+  "align-box-right-bottom-filled": {
+    "name": "align-box-right-bottom-filled",
+    "category": "Filled",
+    "tags": ["align", "box", "right", "bottom", "filled", "text", "type", "east", "down", "south", "corner", "icon", "stroke", "outline"],
+    "version": "2.4",
+    "unicode": "f714"
   }, 
   "align-box-right-bottom": {
     "name": "align-box-right-bottom",
@@ -370,12 +524,26 @@
     "version": "1.104",
     "unicode": "f537"
   }, 
+  "align-box-right-top-filled": {
+    "name": "align-box-right-top-filled",
+    "category": "Filled",
+    "tags": ["align", "box", "right", "top", "filled", "text", "type", "east", "up", "north", "corner", "icon", "stroke", "outline"],
+    "version": "2.4",
+    "unicode": "f715"
+  }, 
   "align-box-right-top": {
     "name": "align-box-right-top",
     "category": "Text",
     "tags": ["align", "box", "right", "top", "text", "type", "east", "up", "north", "corner", "icon", "stroke", "outline"],
     "version": "1.104",
     "unicode": "f538"
+  }, 
+  "align-box-top-center-filled": {
+    "name": "align-box-top-center-filled",
+    "category": "Filled",
+    "tags": ["align", "box", "top", "center", "filled", "text", "type", "up", "north", "icon", "stroke", "outline"],
+    "version": "2.4",
+    "unicode": "f716"
   }, 
   "align-box-top-center": {
     "name": "align-box-top-center",
@@ -384,12 +552,26 @@
     "version": "1.104",
     "unicode": "f539"
   }, 
+  "align-box-top-left-filled": {
+    "name": "align-box-top-left-filled",
+    "category": "Filled",
+    "tags": ["align", "box", "top", "left", "filled", "text", "type", "up", "north", "east", "corner", "icon", "stroke", "outline"],
+    "version": "2.4",
+    "unicode": "f717"
+  }, 
   "align-box-top-left": {
     "name": "align-box-top-left",
     "category": "Text",
     "tags": ["align", "box", "top", "left", "text", "type", "up", "north", "east", "corner", "icon", "stroke", "outline"],
     "version": "1.104",
     "unicode": "f53a"
+  }, 
+  "align-box-top-right-filled": {
+    "name": "align-box-top-right-filled",
+    "category": "Filled",
+    "tags": ["align", "box", "top", "right", "filled", "text", "type", "up", "north", "west", "corner", "icon", "stroke", "outline"],
+    "version": "2.4",
+    "unicode": "f718"
   }, 
   "align-box-top-right": {
     "name": "align-box-top-right",
@@ -467,6 +649,13 @@
     "tags": ["ampersand", "and", "also", "besides", "moreover", "icon", "stroke", "outline"],
     "version": "1.73",
     "unicode": "f229"
+  }, 
+  "analyze-filled": {
+    "name": "analyze-filled",
+    "category": "Filled",
+    "tags": ["analyze", "filled", "analytics", "data", "statistics", "graph", "icon", "stroke", "outline"],
+    "version": "2.4",
+    "unicode": "f719"
   }, 
   "analyze-off": {
     "name": "analyze-off",
@@ -608,6 +797,13 @@
     "version": "1.53",
     "unicode": "effd"
   }, 
+  "app-window-filled": {
+    "name": "app-window-filled",
+    "category": "Filled",
+    "tags": ["app", "window", "filled", "browser", "page", "website", "web", "interface", "icon", "stroke", "outline"],
+    "version": "2.4",
+    "unicode": "f71a"
+  }, 
   "app-window": {
     "name": "app-window",
     "category": "",
@@ -621,6 +817,13 @@
     "tags": ["apple", "fruit", "healthy", "diet", "fitness", "icon", "stroke", "outline"],
     "version": "1.41",
     "unicode": "ef21"
+  }, 
+  "apps-filled": {
+    "name": "apps-filled",
+    "category": "Filled",
+    "tags": ["apps", "filled", "application", "add-on", "user", "download", "mobile", "icon", "stroke", "outline"],
+    "version": "2.3",
+    "unicode": "f6f1"
   }, 
   "apps-off": {
     "name": "apps-off",
@@ -677,6 +880,13 @@
     "tags": ["armchair", "seat", "chair", "sofa", "home", "furniture", "icon", "stroke", "outline"],
     "version": "1.48",
     "unicode": "ef9e"
+  }, 
+  "arrow-autofit-content-filled": {
+    "name": "arrow-autofit-content-filled",
+    "category": "Filled",
+    "tags": ["arrow", "autofit", "content", "filled", "direction", "east", "west", "icon", "stroke", "outline"],
+    "version": "2.3",
+    "unicode": "f6f2"
   }, 
   "arrow-autofit-content": {
     "name": "arrow-autofit-content",
@@ -1469,6 +1679,13 @@
     "version": "1.57",
     "unicode": "f05b"
   }, 
+  "arrow-top-circle": {
+    "name": "arrow-top-circle",
+    "category": "Arrows",
+    "tags": ["arrow", "top", "circle", "icon", "stroke", "outline"],
+    "version": "2.3",
+    "unicode": "f6f3"
+  }, 
   "arrow-up-bar": {
     "name": "arrow-up-bar",
     "category": "Arrows",
@@ -1952,6 +2169,13 @@
     "version": "1.0",
     "unicode": "ea2b"
   }, 
+  "atom-2-filled": {
+    "name": "atom-2-filled",
+    "category": "Filled",
+    "tags": ["atom", "2", "filled", "unit", "element", "part", "electrons", "protons", "neutrons", "icon", "stroke", "outline"],
+    "version": "2.4",
+    "unicode": "f71b"
+  }, 
   "atom-2": {
     "name": "atom-2",
     "category": "",
@@ -1993,6 +2217,13 @@
     "tags": ["augmented", "reality", "technology", "dimensional", "geometry", "icon", "stroke", "outline"],
     "version": "1.55",
     "unicode": "f023"
+  }, 
+  "award-filled": {
+    "name": "award-filled",
+    "category": "Filled",
+    "tags": ["award", "filled", "prize", "reward", "competition", "contest", "win", "icon", "stroke", "outline"],
+    "version": "2.4",
+    "unicode": "f71c"
   }, 
   "award-off": {
     "name": "award-off",
@@ -2116,7 +2347,7 @@
   "badge-filled": {
     "name": "badge-filled",
     "category": "Filled",
-    "tags": ["badge", "filled", "icon", "stroke", "outline"],
+    "tags": ["badge", "filled", "army", "badge", "military", "rank", "soldier", "war", "icon", "stroke", "outline"],
     "version": "2.0",
     "unicode": "f667"
   }, 
@@ -2260,17 +2491,17 @@
     "version": "1.10",
     "unicode": "ec2b"
   }, 
-  "ballon-off": {
-    "name": "ballon-off",
+  "balloon-off": {
+    "name": "balloon-off",
     "category": "",
-    "tags": ["ballon", "off", "party", "birthday", "decoration", "icon", "stroke", "outline"],
+    "tags": ["balloon", "off", "party", "birthday", "decoration", "icon", "stroke", "outline"],
     "version": "1.65",
     "unicode": "f0fd"
   }, 
-  "ballon": {
-    "name": "ballon",
+  "balloon": {
+    "name": "balloon",
     "category": "",
-    "tags": ["ballon", "party", "birthday", "decoration", "icon", "stroke", "outline"],
+    "tags": ["balloon", "party", "birthday", "decoration", "icon", "stroke", "outline"],
     "version": "1.42",
     "unicode": "ef3a"
   }, 
@@ -2393,6 +2624,13 @@
     "version": "1.78",
     "unicode": "f284"
   }, 
+  "bath-filled": {
+    "name": "bath-filled",
+    "category": "Filled",
+    "tags": ["bath", "filled", "water", "clean", "hygiene", "bathroom", "tub", "icon", "stroke", "outline"],
+    "version": "2.4",
+    "unicode": "f71d"
+  }, 
   "bath-off": {
     "name": "bath-off",
     "category": "",
@@ -2407,12 +2645,26 @@
     "version": "1.43",
     "unicode": "ef48"
   }, 
+  "battery-1-filled": {
+    "name": "battery-1-filled",
+    "category": "Filled",
+    "tags": ["battery", "1", "filled", "energy", "power", "electricity", "icon", "stroke", "outline"],
+    "version": "2.4",
+    "unicode": "f71e"
+  }, 
   "battery-1": {
     "name": "battery-1",
     "category": "Devices",
     "tags": ["battery", "1", "energy", "power", "electricity", "icon", "stroke", "outline"],
     "version": "1.0",
     "unicode": "ea2f"
+  }, 
+  "battery-2-filled": {
+    "name": "battery-2-filled",
+    "category": "Filled",
+    "tags": ["battery", "2", "filled", "energy", "power", "electricity", "icon", "stroke", "outline"],
+    "version": "2.4",
+    "unicode": "f71f"
   }, 
   "battery-2": {
     "name": "battery-2",
@@ -2421,12 +2673,26 @@
     "version": "1.0",
     "unicode": "ea30"
   }, 
+  "battery-3-filled": {
+    "name": "battery-3-filled",
+    "category": "Filled",
+    "tags": ["battery", "3", "filled", "energy", "power", "electricity", "icon", "stroke", "outline"],
+    "version": "2.4",
+    "unicode": "f720"
+  }, 
   "battery-3": {
     "name": "battery-3",
     "category": "Devices",
     "tags": ["battery", "3", "energy", "power", "electricity", "icon", "stroke", "outline"],
     "version": "1.0",
     "unicode": "ea31"
+  }, 
+  "battery-4-filled": {
+    "name": "battery-4-filled",
+    "category": "Filled",
+    "tags": ["battery", "4", "filled", "energy", "power", "electricity", "icon", "stroke", "outline"],
+    "version": "2.4",
+    "unicode": "f721"
   }, 
   "battery-4": {
     "name": "battery-4",
@@ -2466,7 +2732,7 @@
   "battery-filled": {
     "name": "battery-filled",
     "category": "Filled",
-    "tags": ["battery", "filled", "icon", "stroke", "outline"],
+    "tags": ["battery", "filled", "energy", "power", "electricity", "icon", "stroke", "outline"],
     "version": "2.0",
     "unicode": "f668"
   }, 
@@ -2529,9 +2795,16 @@
   "bell-filled": {
     "name": "bell-filled",
     "category": "Filled",
-    "tags": ["bell", "filled", "icon", "stroke", "outline"],
+    "tags": ["bell", "filled", "alarm", "sound", "notification", "icon", "stroke", "outline"],
     "version": "2.0",
     "unicode": "f669"
+  }, 
+  "bell-minus-filled": {
+    "name": "bell-minus-filled",
+    "category": "Filled",
+    "tags": ["bell", "minus", "filled", "notification", "alarm", "alert", "remove", "ring", "icon", "stroke", "outline"],
+    "version": "2.4",
+    "unicode": "f722"
   }, 
   "bell-minus": {
     "name": "bell-minus",
@@ -2547,6 +2820,13 @@
     "version": "1.22",
     "unicode": "ece9"
   }, 
+  "bell-plus-filled": {
+    "name": "bell-plus-filled",
+    "category": "Filled",
+    "tags": ["bell", "plus", "filled", "alarm", "notification", "alert", "set", "icon", "stroke", "outline"],
+    "version": "2.4",
+    "unicode": "f723"
+  }, 
   "bell-plus": {
     "name": "bell-plus",
     "category": "System",
@@ -2554,12 +2834,26 @@
     "version": "1.37",
     "unicode": "ede3"
   }, 
+  "bell-ringing-2-filled": {
+    "name": "bell-ringing-2-filled",
+    "category": "Filled",
+    "tags": ["bell", "ringing", "2", "filled", "alarm", "sound", "notification", "icon", "stroke", "outline"],
+    "version": "2.4",
+    "unicode": "f724"
+  }, 
   "bell-ringing-2": {
     "name": "bell-ringing-2",
     "category": "System",
     "tags": ["bell", "ringing", "2", "alarm", "sound", "notification", "icon", "stroke", "outline"],
     "version": "1.37",
     "unicode": "ede4"
+  }, 
+  "bell-ringing-filled": {
+    "name": "bell-ringing-filled",
+    "category": "Filled",
+    "tags": ["bell", "ringing", "filled", "alarm", "sound", "notification", "icon", "stroke", "outline"],
+    "version": "2.4",
+    "unicode": "f725"
   }, 
   "bell-ringing": {
     "name": "bell-ringing",
@@ -2575,12 +2869,26 @@
     "version": "1.58",
     "unicode": "f05e"
   }, 
+  "bell-x-filled": {
+    "name": "bell-x-filled",
+    "category": "Filled",
+    "tags": ["bell", "x", "filled", "alarm", "ring", "sound", "alert", "disabled", "icon", "stroke", "outline"],
+    "version": "2.4",
+    "unicode": "f726"
+  }, 
   "bell-x": {
     "name": "bell-x",
     "category": "System",
     "tags": ["bell", "x", "alarm", "ring", "sound", "alert", "disabled", "icon", "stroke", "outline"],
     "version": "1.37",
     "unicode": "ede5"
+  }, 
+  "bell-z-filled": {
+    "name": "bell-z-filled",
+    "category": "Filled",
+    "tags": ["bell", "z", "filled", "alarm", "bell", "clock", "date", "snooze", "time", "icon", "stroke", "outline"],
+    "version": "2.4",
+    "unicode": "f727"
   }, 
   "bell-z": {
     "name": "bell-z",
@@ -2911,6 +3219,13 @@
     "version": "1.0",
     "unicode": "ea3c"
   }, 
+  "border-corners": {
+    "name": "border-corners",
+    "category": "Design",
+    "tags": ["border", "corners", "icon", "stroke", "outline"],
+    "version": "2.6",
+    "unicode": "f7a0"
+  }, 
   "border-horizontal": {
     "name": "border-horizontal",
     "category": "Design",
@@ -2959,6 +3274,13 @@
     "tags": ["border", "right", "table", "side", "line", "icon", "stroke", "outline"],
     "version": "1.0",
     "unicode": "ea42"
+  }, 
+  "border-sides": {
+    "name": "border-sides",
+    "category": "Design",
+    "tags": ["border", "sides", "icon", "stroke", "outline"],
+    "version": "2.6",
+    "unicode": "f7a1"
   }, 
   "border-style-2": {
     "name": "border-style-2",
@@ -3275,10 +3597,10 @@
     "version": "1.6",
     "unicode": "ebcd"
   }, 
-  "braile": {
-    "name": "braile",
+  "braille": {
+    "name": "braille",
     "category": "",
-    "tags": ["braile", "blind", "alphabet", "disability", "letters", "read", "icon", "stroke", "outline"],
+    "tags": ["braille", "blind", "alphabet", "disability", "letters", "read", "icon", "stroke", "outline"],
     "version": "1.105",
     "unicode": "f545"
   }, 
@@ -3338,6 +3660,13 @@
     "version": "1.92",
     "unicode": "f390"
   }, 
+  "brand-alipay": {
+    "name": "brand-alipay",
+    "category": "Brand",
+    "tags": ["brand", "alipay", "icon", "stroke", "outline"],
+    "version": "2.6",
+    "unicode": "f7a2"
+  }, 
   "brand-alpine-js": {
     "name": "brand-alpine-js",
     "category": "Brand",
@@ -3366,10 +3695,10 @@
     "version": "1.114",
     "unicode": "f5f9"
   }, 
-  "brand-amongus": {
-    "name": "brand-amongus",
+  "brand-among-us": {
+    "name": "brand-among-us",
     "category": "Brand",
-    "tags": ["brand", "amongus", "game", "crewmate", "impostor", "icon", "stroke", "outline"],
+    "tags": ["brand", "among", "us", "game", "crewmate", "impostor", "icon", "stroke", "outline"],
     "version": "1.71",
     "unicode": "f205"
   }, 
@@ -3513,10 +3842,10 @@
     "version": "1.36",
     "unicode": "edc7"
   }, 
-  "brand-blackbery": {
-    "name": "brand-blackbery",
+  "brand-blackberry": {
+    "name": "brand-blackberry",
     "category": "Brand",
-    "tags": ["brand", "blackbery", "phone", "mobile", "system", "operating", "os", "electronics", "icon", "stroke", "outline"],
+    "tags": ["brand", "blackberry", "phone", "mobile", "system", "operating", "os", "electronics", "icon", "stroke", "outline"],
     "version": "1.107",
     "unicode": "f568"
   }, 
@@ -3575,6 +3904,20 @@
     "tags": ["brand", "c", "sharp", "coding", "programming", "files", "language", "icon", "stroke", "outline"],
     "version": "1.53",
     "unicode": "f003"
+  }, 
+  "brand-cake": {
+    "name": "brand-cake",
+    "category": "Brand",
+    "tags": ["brand", "cake", "icon", "stroke", "outline"],
+    "version": "2.6",
+    "unicode": "f7a3"
+  }, 
+  "brand-cakephp": {
+    "name": "brand-cakephp",
+    "category": "Brand",
+    "tags": ["brand", "cakephp", "icon", "stroke", "outline"],
+    "version": "2.7",
+    "unicode": "f7af"
   }, 
   "brand-campaignmonitor": {
     "name": "brand-campaignmonitor",
@@ -3743,6 +4086,13 @@
     "tags": ["brand", "debian", "operating system", "linux", "computer", "gnu", "icon", "stroke", "outline"],
     "version": "1.44",
     "unicode": "ef57"
+  }, 
+  "brand-deezer": {
+    "name": "brand-deezer",
+    "category": "Brand",
+    "tags": ["brand", "deezer", "icon", "stroke", "outline"],
+    "version": "2.5",
+    "unicode": "f78b"
   }, 
   "brand-deliveroo": {
     "name": "brand-deliveroo",
@@ -3933,6 +4283,13 @@
     "version": "1.23",
     "unicode": "ecfd"
   }, 
+  "brand-fiverr": {
+    "name": "brand-fiverr",
+    "category": "Brand",
+    "tags": ["brand", "fiverr", "icon", "stroke", "outline"],
+    "version": "2.6",
+    "unicode": "f7a4"
+  }, 
   "brand-flickr": {
     "name": "brand-flickr",
     "category": "Brand",
@@ -3974,6 +4331,13 @@
     "tags": ["brand", "foursquare", "logo", "website", "community", "social", "network", "icon", "stroke", "outline"],
     "version": "1.23",
     "unicode": "ecff"
+  }, 
+  "brand-framer-motion": {
+    "name": "brand-framer-motion",
+    "category": "Brand",
+    "tags": ["brand", "framer", "motion", "icon", "stroke", "outline"],
+    "version": "2.5",
+    "unicode": "f78c"
   }, 
   "brand-framer": {
     "name": "brand-framer",
@@ -4030,6 +4394,13 @@
     "tags": ["brand", "gmail", "google", "message", "mail", "communication", "icon", "stroke", "outline"],
     "version": "1.48",
     "unicode": "efa2"
+  }, 
+  "brand-golang": {
+    "name": "brand-golang",
+    "category": "Brand",
+    "tags": ["brand", "golang", "icon", "stroke", "outline"],
+    "version": "2.5",
+    "unicode": "f78d"
   }, 
   "brand-google-analytics": {
     "name": "brand-google-analytics",
@@ -4198,6 +4569,13 @@
     "tags": ["brand", "javascript", "js", "language", "programming", "icon", "stroke", "outline"],
     "version": "1.40",
     "unicode": "ef0c"
+  }, 
+  "brand-juejin": {
+    "name": "brand-juejin",
+    "category": "Brand",
+    "tags": ["brand", "juejin", "icon", "stroke", "outline"],
+    "version": "2.7",
+    "unicode": "f7b0"
   }, 
   "brand-kickstarter": {
     "name": "brand-kickstarter",
@@ -4493,6 +4871,13 @@
     "version": "1.36",
     "unicode": "edd0"
   }, 
+  "brand-openai": {
+    "name": "brand-openai",
+    "category": "Brand",
+    "tags": ["brand", "openai", "icon", "stroke", "outline"],
+    "version": "2.5",
+    "unicode": "f78e"
+  }, 
   "brand-openvpn": {
     "name": "brand-openvpn",
     "category": "Brand",
@@ -4570,6 +4955,13 @@
     "version": "1.15",
     "unicode": "ec8d"
   }, 
+  "brand-planetscale": {
+    "name": "brand-planetscale",
+    "category": "Brand",
+    "tags": ["brand", "planetscale", "icon", "stroke", "outline"],
+    "version": "2.5",
+    "unicode": "f78f"
+  }, 
   "brand-pocket": {
     "name": "brand-pocket",
     "category": "Brand",
@@ -4632,6 +5024,13 @@
     "tags": ["brand", "qq", "icon", "stroke", "outline"],
     "version": "1.114",
     "unicode": "f606"
+  }, 
+  "brand-radix-ui": {
+    "name": "brand-radix-ui",
+    "category": "Brand",
+    "tags": ["brand", "radix", "ui", "icon", "stroke", "outline"],
+    "version": "2.5",
+    "unicode": "f790"
   }, 
   "brand-react-native": {
     "name": "brand-react-native",
@@ -4863,6 +5262,13 @@
     "tags": ["brand", "sublime", "text", "software", "text", "editing", "programming", "icon", "stroke", "outline"],
     "version": "1.45",
     "unicode": "ef74"
+  }, 
+  "brand-sugarizer": {
+    "name": "brand-sugarizer",
+    "category": "Brand",
+    "tags": ["brand", "sugarizer", "icon", "stroke", "outline"],
+    "version": "2.6",
+    "unicode": "f7a5"
   }, 
   "brand-supabase": {
     "name": "brand-supabase",
@@ -5700,7 +6106,7 @@
   "bulb-filled": {
     "name": "bulb-filled",
     "category": "Filled",
-    "tags": ["bulb", "filled", "icon", "stroke", "outline"],
+    "tags": ["bulb", "filled", "energy", "power", "electricity", "creativity", "light", "idea", "icon", "stroke", "outline"],
     "version": "2.0",
     "unicode": "f66a"
   }, 
@@ -6274,14 +6680,14 @@
   "chart-area-filled": {
     "name": "chart-area-filled",
     "category": "Filled",
-    "tags": ["chart", "area", "filled", "icon", "stroke", "outline"],
+    "tags": ["chart", "area", "filled", "statistics", "diagram", "graph", "rhythm", "data", "analysis", "icon", "stroke", "outline"],
     "version": "2.0",
     "unicode": "f66b"
   }, 
   "chart-area-line-filled": {
     "name": "chart-area-line-filled",
     "category": "Filled",
-    "tags": ["chart", "area", "line", "filled", "icon", "stroke", "outline"],
+    "tags": ["chart", "area", "line", "filled", "statistics", "diagram", "graph", "rhythm", "data", "analysis", "icon", "stroke", "outline"],
     "version": "2.0",
     "unicode": "f66c"
   }, 
@@ -6330,7 +6736,7 @@
   "chart-bubble-filled": {
     "name": "chart-bubble-filled",
     "category": "Filled",
-    "tags": ["chart", "bubble", "filled", "icon", "stroke", "outline"],
+    "tags": ["chart", "bubble", "filled", "statistics", "diagram", "graph", "rhythm", "data", "analysis", "icon", "stroke", "outline"],
     "version": "2.0",
     "unicode": "f66d"
   }, 
@@ -6344,7 +6750,7 @@
   "chart-candle-filled": {
     "name": "chart-candle-filled",
     "category": "Filled",
-    "tags": ["chart", "candle", "filled", "icon", "stroke", "outline"],
+    "tags": ["chart", "candle", "filled", "statistics", "diagram", "graph", "rhythm", "data", "analysis", "icon", "stroke", "outline"],
     "version": "2.0",
     "unicode": "f66e"
   }, 
@@ -6386,7 +6792,7 @@
   "chart-donut-filled": {
     "name": "chart-donut-filled",
     "category": "Filled",
-    "tags": ["chart", "donut", "filled", "icon", "stroke", "outline"],
+    "tags": ["chart", "donut", "filled", "statistics", "diagram", "graph", "rhythm", "data", "analysis", "icon", "stroke", "outline"],
     "version": "2.0",
     "unicode": "f66f"
   }, 
@@ -6470,7 +6876,7 @@
   "chart-pie-filled": {
     "name": "chart-pie-filled",
     "category": "Filled",
-    "tags": ["chart", "pie", "filled", "icon", "stroke", "outline"],
+    "tags": ["chart", "pie", "filled", "statistics", "diagram", "graph", "rhythm", "data", "analysis", "icon", "stroke", "outline"],
     "version": "2.0",
     "unicode": "f670"
   }, 
@@ -6572,12 +6978,26 @@
     "version": "1.72",
     "unicode": "f21d"
   }, 
+  "cherry-filled": {
+    "name": "cherry-filled",
+    "category": "Filled",
+    "tags": ["cherry", "filled", "fruit", "food", "sweet", "healthy", "icon", "stroke", "outline"],
+    "version": "2.4",
+    "unicode": "f728"
+  }, 
   "cherry": {
     "name": "cherry",
     "category": "",
     "tags": ["cherry", "fruit", "food", "sweet", "healthy", "icon", "stroke", "outline"],
     "version": "1.102",
     "unicode": "f511"
+  }, 
+  "chess-bishop-filled": {
+    "name": "chess-bishop-filled",
+    "category": "Filled",
+    "tags": ["chess", "bishop", "filled", "game", "figure", "strategy", "pawn", "icon", "stroke", "outline"],
+    "version": "2.4",
+    "unicode": "f729"
   }, 
   "chess-bishop": {
     "name": "chess-bishop",
@@ -6586,12 +7006,33 @@
     "version": "1.107",
     "unicode": "f56b"
   }, 
+  "chess-filled": {
+    "name": "chess-filled",
+    "category": "Filled",
+    "tags": ["chess", "filled", "game", "strategy", "pawn", "figure", "icon", "stroke", "outline"],
+    "version": "2.4",
+    "unicode": "f72a"
+  }, 
+  "chess-king-filled": {
+    "name": "chess-king-filled",
+    "category": "Filled",
+    "tags": ["chess", "king", "filled", "game", "figure", "strategy", "pawn", "icon", "stroke", "outline"],
+    "version": "2.4",
+    "unicode": "f72b"
+  }, 
   "chess-king": {
     "name": "chess-king",
     "category": "Sport",
     "tags": ["chess", "king", "game", "figure", "strategy", "pawn", "icon", "stroke", "outline"],
     "version": "1.107",
     "unicode": "f56c"
+  }, 
+  "chess-knight-filled": {
+    "name": "chess-knight-filled",
+    "category": "Filled",
+    "tags": ["chess", "knight", "filled", "game", "figure", "strategy", "pawn", "icon", "stroke", "outline"],
+    "version": "2.4",
+    "unicode": "f72c"
   }, 
   "chess-knight": {
     "name": "chess-knight",
@@ -6600,12 +7041,26 @@
     "version": "1.107",
     "unicode": "f56d"
   }, 
+  "chess-queen-filled": {
+    "name": "chess-queen-filled",
+    "category": "Filled",
+    "tags": ["chess", "queen", "filled", "game", "figure", "strategy", "pawn", "icon", "stroke", "outline"],
+    "version": "2.4",
+    "unicode": "f72d"
+  }, 
   "chess-queen": {
     "name": "chess-queen",
     "category": "Sport",
     "tags": ["chess", "queen", "game", "figure", "strategy", "pawn", "icon", "stroke", "outline"],
     "version": "1.107",
     "unicode": "f56e"
+  }, 
+  "chess-rook-filled": {
+    "name": "chess-rook-filled",
+    "category": "Filled",
+    "tags": ["chess", "rook", "filled", "game", "figure", "strategy", "pawn", "icon", "stroke", "outline"],
+    "version": "2.4",
+    "unicode": "f72e"
   }, 
   "chess-rook": {
     "name": "chess-rook",
@@ -6754,6 +7209,188 @@
     "version": "1.33",
     "unicode": "ed78"
   }, 
+  "circle-0-filled": {
+    "name": "circle-0-filled",
+    "category": "Filled",
+    "tags": ["circle", "0", "filled", "icon", "stroke", "outline"],
+    "version": "2.4",
+    "unicode": "f72f"
+  }, 
+  "circle-1-filled": {
+    "name": "circle-1-filled",
+    "category": "Filled",
+    "tags": ["circle", "1", "filled", "icon", "stroke", "outline"],
+    "version": "2.4",
+    "unicode": "f730"
+  }, 
+  "circle-2-filled": {
+    "name": "circle-2-filled",
+    "category": "Filled",
+    "tags": ["circle", "2", "filled", "icon", "stroke", "outline"],
+    "version": "2.4",
+    "unicode": "f731"
+  }, 
+  "circle-3-filled": {
+    "name": "circle-3-filled",
+    "category": "Filled",
+    "tags": ["circle", "3", "filled", "icon", "stroke", "outline"],
+    "version": "2.4",
+    "unicode": "f732"
+  }, 
+  "circle-4-filled": {
+    "name": "circle-4-filled",
+    "category": "Filled",
+    "tags": ["circle", "4", "filled", "icon", "stroke", "outline"],
+    "version": "2.4",
+    "unicode": "f733"
+  }, 
+  "circle-5-filled": {
+    "name": "circle-5-filled",
+    "category": "Filled",
+    "tags": ["circle", "5", "filled", "icon", "stroke", "outline"],
+    "version": "2.4",
+    "unicode": "f734"
+  }, 
+  "circle-6-filled": {
+    "name": "circle-6-filled",
+    "category": "Filled",
+    "tags": ["circle", "6", "filled", "icon", "stroke", "outline"],
+    "version": "2.4",
+    "unicode": "f735"
+  }, 
+  "circle-7-filled": {
+    "name": "circle-7-filled",
+    "category": "Filled",
+    "tags": ["circle", "7", "filled", "icon", "stroke", "outline"],
+    "version": "2.4",
+    "unicode": "f736"
+  }, 
+  "circle-8-filled": {
+    "name": "circle-8-filled",
+    "category": "Filled",
+    "tags": ["circle", "8", "filled", "icon", "stroke", "outline"],
+    "version": "2.4",
+    "unicode": "f737"
+  }, 
+  "circle-9-filled": {
+    "name": "circle-9-filled",
+    "category": "Filled",
+    "tags": ["circle", "9", "filled", "icon", "stroke", "outline"],
+    "version": "2.4",
+    "unicode": "f738"
+  }, 
+  "circle-arrow-down-filled": {
+    "name": "circle-arrow-down-filled",
+    "category": "Filled",
+    "tags": ["circle", "arrow", "down", "filled", "icon", "stroke", "outline"],
+    "version": "2.3",
+    "unicode": "f6f4"
+  }, 
+  "circle-arrow-down-left-filled": {
+    "name": "circle-arrow-down-left-filled",
+    "category": "Filled",
+    "tags": ["circle", "arrow", "down", "left", "filled", "icon", "stroke", "outline"],
+    "version": "2.3",
+    "unicode": "f6f5"
+  }, 
+  "circle-arrow-down-left": {
+    "name": "circle-arrow-down-left",
+    "category": "Arrows",
+    "tags": ["circle", "arrow", "down", "left", "icon", "stroke", "outline"],
+    "version": "2.3",
+    "unicode": "f6f6"
+  }, 
+  "circle-arrow-down-right-filled": {
+    "name": "circle-arrow-down-right-filled",
+    "category": "Filled",
+    "tags": ["circle", "arrow", "down", "right", "filled", "icon", "stroke", "outline"],
+    "version": "2.3",
+    "unicode": "f6f7"
+  }, 
+  "circle-arrow-down-right": {
+    "name": "circle-arrow-down-right",
+    "category": "Arrows",
+    "tags": ["circle", "arrow", "down", "right", "icon", "stroke", "outline"],
+    "version": "2.3",
+    "unicode": "f6f8"
+  }, 
+  "circle-arrow-down": {
+    "name": "circle-arrow-down",
+    "category": "Arrows",
+    "tags": ["circle", "arrow", "down", "icon", "stroke", "outline"],
+    "version": "2.3",
+    "unicode": "f6f9"
+  }, 
+  "circle-arrow-left-filled": {
+    "name": "circle-arrow-left-filled",
+    "category": "Filled",
+    "tags": ["circle", "arrow", "left", "filled", "icon", "stroke", "outline"],
+    "version": "2.3",
+    "unicode": "f6fa"
+  }, 
+  "circle-arrow-left": {
+    "name": "circle-arrow-left",
+    "category": "Arrows",
+    "tags": ["circle", "arrow", "left", "icon", "stroke", "outline"],
+    "version": "2.3",
+    "unicode": "f6fb"
+  }, 
+  "circle-arrow-right-filled": {
+    "name": "circle-arrow-right-filled",
+    "category": "Filled",
+    "tags": ["circle", "arrow", "right", "filled", "icon", "stroke", "outline"],
+    "version": "2.3",
+    "unicode": "f6fc"
+  }, 
+  "circle-arrow-right": {
+    "name": "circle-arrow-right",
+    "category": "Arrows",
+    "tags": ["circle", "arrow", "right", "icon", "stroke", "outline"],
+    "version": "2.3",
+    "unicode": "f6fd"
+  }, 
+  "circle-arrow-up-filled": {
+    "name": "circle-arrow-up-filled",
+    "category": "Filled",
+    "tags": ["circle", "arrow", "up", "filled", "icon", "stroke", "outline"],
+    "version": "2.3",
+    "unicode": "f6fe"
+  }, 
+  "circle-arrow-up-left-filled": {
+    "name": "circle-arrow-up-left-filled",
+    "category": "Filled",
+    "tags": ["circle", "arrow", "up", "left", "filled", "icon", "stroke", "outline"],
+    "version": "2.3",
+    "unicode": "f6ff"
+  }, 
+  "circle-arrow-up-left": {
+    "name": "circle-arrow-up-left",
+    "category": "Arrows",
+    "tags": ["circle", "arrow", "up", "left", "icon", "stroke", "outline"],
+    "version": "2.3",
+    "unicode": "f700"
+  }, 
+  "circle-arrow-up-right-filled": {
+    "name": "circle-arrow-up-right-filled",
+    "category": "Filled",
+    "tags": ["circle", "arrow", "up", "right", "filled", "icon", "stroke", "outline"],
+    "version": "2.3",
+    "unicode": "f701"
+  }, 
+  "circle-arrow-up-right": {
+    "name": "circle-arrow-up-right",
+    "category": "Arrows",
+    "tags": ["circle", "arrow", "up", "right", "icon", "stroke", "outline"],
+    "version": "2.3",
+    "unicode": "f702"
+  }, 
+  "circle-arrow-up": {
+    "name": "circle-arrow-up",
+    "category": "Arrows",
+    "tags": ["circle", "arrow", "up", "icon", "stroke", "outline"],
+    "version": "2.3",
+    "unicode": "f703"
+  }, 
   "circle-caret-down": {
     "name": "circle-caret-down",
     "category": "Arrows",
@@ -6781,6 +7418,13 @@
     "tags": ["circle", "caret", "up", "direction", "shape", "north", "top", "icon", "stroke", "outline"],
     "version": "1.97",
     "unicode": "f4ac"
+  }, 
+  "circle-check-filled": {
+    "name": "circle-check-filled",
+    "category": "Filled",
+    "tags": ["circle", "check", "filled", "accept", "true", "tick", "done", "icon", "stroke", "outline"],
+    "version": "2.3",
+    "unicode": "f704"
   }, 
   "circle-check": {
     "name": "circle-check",
@@ -6852,6 +7496,13 @@
     "version": "1.26",
     "unicode": "ed27"
   }, 
+  "circle-dot-filled": {
+    "name": "circle-dot-filled",
+    "category": "Filled",
+    "tags": ["circle", "dot", "filled", "crosshair", "shape", "geometry", "icon", "stroke", "outline"],
+    "version": "2.3",
+    "unicode": "f705"
+  }, 
   "circle-dot": {
     "name": "circle-dot",
     "category": "",
@@ -6869,7 +7520,7 @@
   "circle-filled": {
     "name": "circle-filled",
     "category": "Filled",
-    "tags": ["circle", "filled", "icon", "stroke", "outline"],
+    "tags": ["circle", "filled", "false", "zero", "icon", "stroke", "outline"],
     "version": "2.0",
     "unicode": "f671"
   }, 
@@ -6893,6 +7544,13 @@
     "tags": ["circle", "half", "shape", "split", "slash", "icon", "stroke", "outline"],
     "version": "1.39",
     "unicode": "ee3f"
+  }, 
+  "circle-key-filled": {
+    "name": "circle-key-filled",
+    "category": "Filled",
+    "tags": ["circle", "key", "filled", "icon", "stroke", "outline"],
+    "version": "2.3",
+    "unicode": "f706"
   }, 
   "circle-key": {
     "name": "circle-key",
@@ -7202,6 +7860,13 @@
     "version": "1.54",
     "unicode": "f011"
   }, 
+  "circle-x-filled": {
+    "name": "circle-x-filled",
+    "category": "Filled",
+    "tags": ["circle", "x", "filled", "cancel", "no", "icon", "stroke", "outline"],
+    "version": "2.4",
+    "unicode": "f739"
+  }, 
   "circle-x": {
     "name": "circle-x",
     "category": "",
@@ -7219,7 +7884,7 @@
   "circles-filled": {
     "name": "circles-filled",
     "category": "Filled",
-    "tags": ["circles", "filled", "icon", "stroke", "outline"],
+    "tags": ["circles", "filled", "shape", "marbles", "balls", "juggle", "spots", "icon", "stroke", "outline"],
     "version": "2.0",
     "unicode": "f672"
   }, 
@@ -7489,6 +8154,13 @@
     "version": "1.105",
     "unicode": "f547"
   }, 
+  "clock-filled": {
+    "name": "clock-filled",
+    "category": "Filled",
+    "tags": ["clock", "filled", "time", "watch", "alarm", "icon", "stroke", "outline"],
+    "version": "2.4",
+    "unicode": "f73a"
+  }, 
   "clock-hour-1": {
     "name": "clock-hour-1",
     "category": "System",
@@ -7653,7 +8325,7 @@
   "cloud-filled": {
     "name": "cloud-filled",
     "category": "Filled",
-    "tags": ["cloud", "filled", "icon", "stroke", "outline"],
+    "tags": ["cloud", "filled", "weather", "online", "icon", "stroke", "outline"],
     "version": "2.0",
     "unicode": "f673"
   }, 
@@ -7737,7 +8409,7 @@
   "clubs-filled": {
     "name": "clubs-filled",
     "category": "Filled",
-    "tags": ["clubs", "filled", "icon", "stroke", "outline"],
+    "tags": ["clubs", "filled", "card", "game", "casino", "gambling", "poker", "icon", "stroke", "outline"],
     "version": "2.0",
     "unicode": "f674"
   }, 
@@ -8154,6 +8826,13 @@
     "version": "1.0",
     "unicode": "ea7a"
   }, 
+  "copyleft-filled": {
+    "name": "copyleft-filled",
+    "category": "Filled",
+    "tags": ["copyleft", "filled", "licence", "license", "icon", "stroke", "outline"],
+    "version": "2.4",
+    "unicode": "f73b"
+  }, 
   "copyleft-off": {
     "name": "copyleft-off",
     "category": "Symbols",
@@ -8167,6 +8846,13 @@
     "tags": ["copyleft", "licence", "license", "icon", "stroke", "outline"],
     "version": "1.11",
     "unicode": "ec3d"
+  }, 
+  "copyright-filled": {
+    "name": "copyright-filled",
+    "category": "Filled",
+    "tags": ["copyright", "filled", "licence", "license", "icon", "stroke", "outline"],
+    "version": "2.4",
+    "unicode": "f73c"
   }, 
   "copyright-off": {
     "name": "copyright-off",
@@ -8409,7 +9095,7 @@
   "cross-filled": {
     "name": "cross-filled",
     "category": "Filled",
-    "tags": ["cross", "filled", "icon", "stroke", "outline"],
+    "tags": ["cross", "filled", "prayer", "church", "catholic", "jezus", "religion", "icon", "stroke", "outline"],
     "version": "2.0",
     "unicode": "f675"
   }, 
@@ -8468,6 +9154,13 @@
     "tags": ["crystal", "ball", "magic", "fortune", "christmas", "witch", "future", "icon", "stroke", "outline"],
     "version": "1.108",
     "unicode": "f57b"
+  }, 
+  "csv": {
+    "name": "csv",
+    "category": "Extensions",
+    "tags": ["csv", "icon", "stroke", "outline"],
+    "version": "2.5",
+    "unicode": "f791"
   }, 
   "cube-send": {
     "name": "cube-send",
@@ -8769,6 +9462,13 @@
     "tags": ["currency", "naira", "naira", "ngn", "nigerian", "trade", "money", "banknote", "pay", "money", "banknote", "pay", "icon", "stroke", "outline"],
     "version": "1.39",
     "unicode": "ee62"
+  }, 
+  "currency-nano": {
+    "name": "currency-nano",
+    "category": "Currencies",
+    "tags": ["currency", "nano", "money", "nano", "crypto", "blockchain", "pay", "p2p", "digital", "icon", "stroke", "outline"],
+    "version": "2.6",
+    "unicode": "f7a6"
   }, 
   "currency-off": {
     "name": "currency-off",
@@ -9197,6 +9897,13 @@
     "version": "1.58",
     "unicode": "f060"
   }, 
+  "device-imac": {
+    "name": "device-imac",
+    "category": "Devices",
+    "tags": ["device", "imac", "icon", "stroke", "outline"],
+    "version": "2.6",
+    "unicode": "f7a7"
+  }, 
   "device-ipad-horizontal": {
     "name": "device-ipad-horizontal",
     "category": "Devices",
@@ -9287,6 +9994,13 @@
     "tags": ["device", "nintendo", "gamepad", "technology", "game", "console", "controller", "icon", "stroke", "outline"],
     "version": "1.55",
     "unicode": "f026"
+  }, 
+  "device-remote": {
+    "name": "device-remote",
+    "category": "Devices",
+    "tags": ["device", "remote", "icon", "stroke", "outline"],
+    "version": "2.5",
+    "unicode": "f792"
   }, 
   "device-sd-card": {
     "name": "device-sd-card",
@@ -9449,6 +10163,13 @@
     "version": "1.58",
     "unicode": "f067"
   }, 
+  "diamond-filled": {
+    "name": "diamond-filled",
+    "category": "Filled",
+    "tags": ["diamond", "filled", "jewellery", "crystal", "mineral", "jewelry", "ring", "icon", "stroke", "outline"],
+    "version": "2.4",
+    "unicode": "f73d"
+  }, 
   "diamond-off": {
     "name": "diamond-off",
     "category": "",
@@ -9466,7 +10187,7 @@
   "diamonds-filled": {
     "name": "diamonds-filled",
     "category": "Filled",
-    "tags": ["diamonds", "filled", "icon", "stroke", "outline"],
+    "tags": ["diamonds", "filled", "gambling", "game", "casino", "cards", "poker", "icon", "stroke", "outline"],
     "version": "2.0",
     "unicode": "f676"
   }, 
@@ -9477,12 +10198,26 @@
     "version": "1.52",
     "unicode": "eff5"
   }, 
+  "dice-1-filled": {
+    "name": "dice-1-filled",
+    "category": "Filled",
+    "tags": ["dice", "1", "filled", "game", "boardgame", "roll", "throw", "cube", "numbers", "gambling", "icon", "stroke", "outline"],
+    "version": "2.4",
+    "unicode": "f73e"
+  }, 
   "dice-1": {
     "name": "dice-1",
     "category": "",
     "tags": ["dice", "1", "game", "boardgame", "roll", "throw", "cube", "numbers", "gambling", "icon", "stroke", "outline"],
     "version": "1.60",
     "unicode": "f08b"
+  }, 
+  "dice-2-filled": {
+    "name": "dice-2-filled",
+    "category": "Filled",
+    "tags": ["dice", "2", "filled", "game", "boardgame", "roll", "throw", "cube", "numbers", "gambling", "icon", "stroke", "outline"],
+    "version": "2.4",
+    "unicode": "f73f"
   }, 
   "dice-2": {
     "name": "dice-2",
@@ -9491,12 +10226,26 @@
     "version": "1.60",
     "unicode": "f08c"
   }, 
+  "dice-3-filled": {
+    "name": "dice-3-filled",
+    "category": "Filled",
+    "tags": ["dice", "3", "filled", "game", "boardgame", "roll", "throw", "cube", "numbers", "gambling", "icon", "stroke", "outline"],
+    "version": "2.4",
+    "unicode": "f740"
+  }, 
   "dice-3": {
     "name": "dice-3",
     "category": "",
     "tags": ["dice", "3", "game", "boardgame", "roll", "throw", "cube", "numbers", "gambling", "icon", "stroke", "outline"],
     "version": "1.60",
     "unicode": "f08d"
+  }, 
+  "dice-4-filled": {
+    "name": "dice-4-filled",
+    "category": "Filled",
+    "tags": ["dice", "4", "filled", "game", "boardgame", "roll", "throw", "cube", "numbers", "gambling", "icon", "stroke", "outline"],
+    "version": "2.4",
+    "unicode": "f741"
   }, 
   "dice-4": {
     "name": "dice-4",
@@ -9505,6 +10254,13 @@
     "version": "1.60",
     "unicode": "f08e"
   }, 
+  "dice-5-filled": {
+    "name": "dice-5-filled",
+    "category": "Filled",
+    "tags": ["dice", "5", "filled", "game", "boardgame", "roll", "throw", "cube", "numbers", "gambling", "icon", "stroke", "outline"],
+    "version": "2.4",
+    "unicode": "f742"
+  }, 
   "dice-5": {
     "name": "dice-5",
     "category": "",
@@ -9512,12 +10268,26 @@
     "version": "1.60",
     "unicode": "f08f"
   }, 
+  "dice-6-filled": {
+    "name": "dice-6-filled",
+    "category": "Filled",
+    "tags": ["dice", "6", "filled", "game", "boardgame", "roll", "throw", "cube", "numbers", "gambling", "icon", "stroke", "outline"],
+    "version": "2.4",
+    "unicode": "f743"
+  }, 
   "dice-6": {
     "name": "dice-6",
     "category": "",
     "tags": ["dice", "6", "game", "boardgame", "roll", "throw", "cube", "numbers", "gambling", "icon", "stroke", "outline"],
     "version": "1.60",
     "unicode": "f090"
+  }, 
+  "dice-filled": {
+    "name": "dice-filled",
+    "category": "Filled",
+    "tags": ["dice", "filled", "game", "boardgame", "roll", "throw", "cube", "numbers", "gambling", "icon", "stroke", "outline"],
+    "version": "2.4",
+    "unicode": "f744"
   }, 
   "dice": {
     "name": "dice",
@@ -9539,6 +10309,13 @@
     "tags": ["direction", "horizontal", "travel", "navigation discover", "plane", "icon", "stroke", "outline"],
     "version": "1.8",
     "unicode": "ebfa"
+  }, 
+  "direction-sign-filled": {
+    "name": "direction-sign-filled",
+    "category": "Filled",
+    "tags": ["direction", "sign", "filled", "arrow", "navigation", "forward", "right", "icon", "stroke", "outline"],
+    "version": "2.4",
+    "unicode": "f745"
   }, 
   "direction-sign-off": {
     "name": "direction-sign-off",
@@ -9630,6 +10407,13 @@
     "tags": ["discount", "2", "sale", "reduction", "price", "cost", "money", "shopping", "bargain", "icon", "stroke", "outline"],
     "version": "1.5",
     "unicode": "ee7c"
+  }, 
+  "discount-check-filled": {
+    "name": "discount-check-filled",
+    "category": "Filled",
+    "tags": ["discount", "check", "filled", "reduction", "price", "cost", "money", "shopping", "bargain", "tick", "done", "icon", "stroke", "outline"],
+    "version": "2.4",
+    "unicode": "f746"
   }, 
   "discount-check": {
     "name": "discount-check",
@@ -9823,7 +10607,7 @@
   "droplet-filled": {
     "name": "droplet-filled",
     "category": "Design",
-    "tags": ["droplet", "filled", "water", "rain", "liquid", "fill", "icon", "stroke", "outline"],
+    "tags": ["droplet", "filled", "water", "rain", "liquid", "icon", "stroke", "outline"],
     "version": "1.39",
     "unicode": "ee80"
   }, 
@@ -9963,7 +10747,7 @@
   "egg-filled": {
     "name": "egg-filled",
     "category": "Filled",
-    "tags": ["egg", "filled", "icon", "stroke", "outline"],
+    "tags": ["egg", "filled", "food", "easter", "chicken", "icon", "stroke", "outline"],
     "version": "2.0",
     "unicode": "f678"
   }, 
@@ -10222,7 +11006,7 @@
   "eye-filled": {
     "name": "eye-filled",
     "category": "Filled",
-    "tags": ["eye", "filled", "icon", "stroke", "outline"],
+    "tags": ["eye", "filled", "view", "watch", "icon", "stroke", "outline"],
     "version": "2.0",
     "unicode": "f679"
   }, 
@@ -10499,6 +11283,13 @@
     "version": "1.37",
     "unicode": "ede9"
   }, 
+  "file-filled": {
+    "name": "file-filled",
+    "category": "Filled",
+    "tags": ["file", "filled", "paper", "new", "icon", "stroke", "outline"],
+    "version": "2.4",
+    "unicode": "f747"
+  }, 
   "file-function": {
     "name": "file-function",
     "category": "Document",
@@ -10737,6 +11528,13 @@
     "version": "1.56",
     "unicode": "f043"
   }, 
+  "file-x-filled": {
+    "name": "file-x-filled",
+    "category": "Filled",
+    "tags": ["file", "x", "filled", "remove", "delete", "erase", "icon", "stroke", "outline"],
+    "version": "2.4",
+    "unicode": "f748"
+  }, 
   "file-x": {
     "name": "file-x",
     "category": "Document",
@@ -10785,6 +11583,13 @@
     "tags": ["filter", "funnel", "hopper", "filtration", "icon", "stroke", "outline"],
     "version": "1.0",
     "unicode": "eaa5"
+  }, 
+  "filters": {
+    "name": "filters",
+    "category": "",
+    "tags": ["filters", "icon", "stroke", "outline"],
+    "version": "2.5",
+    "unicode": "f793"
   }, 
   "fingerprint-off": {
     "name": "fingerprint-off",
@@ -10877,6 +11682,13 @@
     "version": "1.41",
     "unicode": "ef2b"
   }, 
+  "flag-2-filled": {
+    "name": "flag-2-filled",
+    "category": "Filled",
+    "tags": ["flag", "2", "filled", "banner", "pin", "report", "map", "warning", "alert", "icon", "stroke", "outline"],
+    "version": "2.3",
+    "unicode": "f707"
+  }, 
   "flag-2-off": {
     "name": "flag-2-off",
     "category": "Map",
@@ -10891,6 +11703,13 @@
     "version": "1.39",
     "unicode": "ee8c"
   }, 
+  "flag-3-filled": {
+    "name": "flag-3-filled",
+    "category": "Filled",
+    "tags": ["flag", "3", "filled", "banner", "pin", "report", "map", "warning", "alert", "icon", "stroke", "outline"],
+    "version": "2.3",
+    "unicode": "f708"
+  }, 
   "flag-3": {
     "name": "flag-3",
     "category": "Map",
@@ -10901,7 +11720,7 @@
   "flag-filled": {
     "name": "flag-filled",
     "category": "Filled",
-    "tags": ["flag", "filled", "icon", "stroke", "outline"],
+    "tags": ["flag", "filled", "banner", "pin", "report", "map", "warning", "alert", "icon", "stroke", "outline"],
     "version": "2.0",
     "unicode": "f67a"
   }, 
@@ -11072,6 +11891,13 @@
     "tags": ["fold", "arrow", "move", "merge", "icon", "stroke", "outline"],
     "version": "1.30",
     "unicode": "ed56"
+  }, 
+  "folder-filled": {
+    "name": "folder-filled",
+    "category": "Filled",
+    "tags": ["folder", "filled", "cancel", "no", "directory", "dir", "icon", "stroke", "outline"],
+    "version": "2.4",
+    "unicode": "f749"
   }, 
   "folder-minus": {
     "name": "folder-minus",
@@ -11409,12 +12235,26 @@
     "version": "1.39",
     "unicode": "ee90"
   }, 
+  "ghost-2-filled": {
+    "name": "ghost-2-filled",
+    "category": "Filled",
+    "tags": ["ghost", "2", "filled", "spirit", "transparent", "fairytale", "horror", "movie", "shadow", "haunt", "icon", "stroke", "outline"],
+    "version": "2.4",
+    "unicode": "f74a"
+  }, 
   "ghost-2": {
     "name": "ghost-2",
     "category": "",
     "tags": ["ghost", "2", "spirit", "transparent", "fairytale", "horror", "movie", "shadow", "haunt", "icon", "stroke", "outline"],
     "version": "1.108",
     "unicode": "f57c"
+  }, 
+  "ghost-filled": {
+    "name": "ghost-filled",
+    "category": "Filled",
+    "tags": ["ghost", "filled", "spirit", "transparent", "fairytale", "horror", "movie", "shadow", "haunt", "icon", "stroke", "outline"],
+    "version": "2.4",
+    "unicode": "f74b"
   }, 
   "ghost-off": {
     "name": "ghost-off",
@@ -11432,8 +12272,8 @@
   }, 
   "gif": {
     "name": "gif",
-    "category": "",
-    "tags": ["gif", "file", "format", "animation", "image", "extension", "icon", "stroke", "outline"],
+    "category": "Extensions",
+    "tags": ["gif", "file", "format", "animation", "image", "extension", "filetype", "icon", "stroke", "outline"],
     "version": "1.75",
     "unicode": "f257"
   }, 
@@ -11706,7 +12546,7 @@
   "guitar-pick-filled": {
     "name": "guitar-pick-filled",
     "category": "Filled",
-    "tags": ["guitar", "pick", "filled", "icon", "stroke", "outline"],
+    "tags": ["guitar", "pick", "filled", "music", "instrument", "melody", "accesories", "icon", "stroke", "outline"],
     "version": "2.0",
     "unicode": "f67b"
   }, 
@@ -11930,7 +12770,7 @@
   "headphones": {
     "name": "headphones",
     "category": "Media",
-    "tags": ["headphones", "music", "headset", "audio", "sound", "icon", "stroke", "outline"],
+    "tags": ["headphones", "music", "headset", "audio", "sound", "customer", "icon", "stroke", "outline"],
     "version": "1.0",
     "unicode": "eabd"
   }, 
@@ -11944,7 +12784,7 @@
   "headset": {
     "name": "headset",
     "category": "Media",
-    "tags": ["headset", "music", "headphones", "audio", "sound", "icon", "stroke", "outline"],
+    "tags": ["headset", "music", "headphones", "audio", "sound", "customer", "icon", "stroke", "outline"],
     "version": "1.3",
     "unicode": "eb90"
   }, 
@@ -11965,7 +12805,7 @@
   "heart-filled": {
     "name": "heart-filled",
     "category": "Filled",
-    "tags": ["heart", "filled", "icon", "stroke", "outline"],
+    "tags": ["heart", "filled", "love", "emotion", "like", "favorite", "relationship", "icon", "stroke", "outline"],
     "version": "2.0",
     "unicode": "f67c"
   }, 
@@ -12060,6 +12900,20 @@
     "version": "1.50",
     "unicode": "efca"
   }, 
+  "help-hexagon": {
+    "name": "help-hexagon",
+    "category": "",
+    "tags": ["help", "hexagon", "icon", "stroke", "outline"],
+    "version": "2.6",
+    "unicode": "f7a8"
+  }, 
+  "help-octagon": {
+    "name": "help-octagon",
+    "category": "",
+    "tags": ["help", "octagon", "icon", "stroke", "outline"],
+    "version": "2.6",
+    "unicode": "f7a9"
+  }, 
   "help-off": {
     "name": "help-off",
     "category": "",
@@ -12074,6 +12928,34 @@
     "version": "1.1",
     "unicode": "eabf"
   }, 
+  "hexagon-0-filled": {
+    "name": "hexagon-0-filled",
+    "category": "Filled",
+    "tags": ["hexagon", "0", "filled", "icon", "stroke", "outline"],
+    "version": "2.4",
+    "unicode": "f74c"
+  }, 
+  "hexagon-1-filled": {
+    "name": "hexagon-1-filled",
+    "category": "Filled",
+    "tags": ["hexagon", "1", "filled", "icon", "stroke", "outline"],
+    "version": "2.4",
+    "unicode": "f74d"
+  }, 
+  "hexagon-2-filled": {
+    "name": "hexagon-2-filled",
+    "category": "Filled",
+    "tags": ["hexagon", "2", "filled", "icon", "stroke", "outline"],
+    "version": "2.4",
+    "unicode": "f74e"
+  }, 
+  "hexagon-3-filled": {
+    "name": "hexagon-3-filled",
+    "category": "Filled",
+    "tags": ["hexagon", "3", "filled", "icon", "stroke", "outline"],
+    "version": "2.4",
+    "unicode": "f74f"
+  }, 
   "hexagon-3d": {
     "name": "hexagon-3d",
     "category": "",
@@ -12081,10 +12963,52 @@
     "version": "1.98",
     "unicode": "f4c7"
   }, 
+  "hexagon-4-filled": {
+    "name": "hexagon-4-filled",
+    "category": "Filled",
+    "tags": ["hexagon", "4", "filled", "icon", "stroke", "outline"],
+    "version": "2.4",
+    "unicode": "f750"
+  }, 
+  "hexagon-5-filled": {
+    "name": "hexagon-5-filled",
+    "category": "Filled",
+    "tags": ["hexagon", "5", "filled", "icon", "stroke", "outline"],
+    "version": "2.4",
+    "unicode": "f751"
+  }, 
+  "hexagon-6-filled": {
+    "name": "hexagon-6-filled",
+    "category": "Filled",
+    "tags": ["hexagon", "6", "filled", "icon", "stroke", "outline"],
+    "version": "2.4",
+    "unicode": "f752"
+  }, 
+  "hexagon-7-filled": {
+    "name": "hexagon-7-filled",
+    "category": "Filled",
+    "tags": ["hexagon", "7", "filled", "icon", "stroke", "outline"],
+    "version": "2.4",
+    "unicode": "f753"
+  }, 
+  "hexagon-8-filled": {
+    "name": "hexagon-8-filled",
+    "category": "Filled",
+    "tags": ["hexagon", "8", "filled", "icon", "stroke", "outline"],
+    "version": "2.4",
+    "unicode": "f754"
+  }, 
+  "hexagon-9-filled": {
+    "name": "hexagon-9-filled",
+    "category": "Filled",
+    "tags": ["hexagon", "9", "filled", "icon", "stroke", "outline"],
+    "version": "2.4",
+    "unicode": "f755"
+  }, 
   "hexagon-filled": {
     "name": "hexagon-filled",
     "category": "Filled",
-    "tags": ["hexagon", "filled", "icon", "stroke", "outline"],
+    "tags": ["hexagon", "filled", "shape", "geometric", "math", "2d", "icon", "stroke", "outline"],
     "version": "2.0",
     "unicode": "f67d"
   }, 
@@ -12658,21 +13582,28 @@
   "hourglass-empty": {
     "name": "hourglass-empty",
     "category": "System",
-    "tags": ["hourglass", "empty", "material", "measure", "time", "timer", "icon", "stroke", "outline"],
+    "tags": ["hourglass", "empty", "material", "measure", "time", "timer", "clock", "sand", "icon", "stroke", "outline"],
     "version": "1.66",
     "unicode": "f146"
+  }, 
+  "hourglass-filled": {
+    "name": "hourglass-filled",
+    "category": "Filled",
+    "tags": ["hourglass", "filled", "time", "timer", "sand", "clock", "icon", "stroke", "outline"],
+    "version": "2.4",
+    "unicode": "f756"
   }, 
   "hourglass-high": {
     "name": "hourglass-high",
     "category": "System",
-    "tags": ["hourglass", "high", "simple", "time", "timer", "clock", "icon", "stroke", "outline"],
+    "tags": ["hourglass", "high", "simple", "time", "timer", "clock", "sand", "icon", "stroke", "outline"],
     "version": "1.60",
     "unicode": "f092"
   }, 
   "hourglass-low": {
     "name": "hourglass-low",
     "category": "System",
-    "tags": ["hourglass", "low", "simple", "time", "timer", "clock", "icon", "stroke", "outline"],
+    "tags": ["hourglass", "low", "simple", "time", "timer", "clock", "sand", "icon", "stroke", "outline"],
     "version": "1.60",
     "unicode": "f093"
   }, 
@@ -12689,6 +13620,13 @@
     "tags": ["hourglass", "time", "timer", "sand", "clock", "icon", "stroke", "outline"],
     "version": "1.47",
     "unicode": "ef93"
+  }, 
+  "html": {
+    "name": "html",
+    "category": "Extensions",
+    "tags": ["html", "icon", "stroke", "outline"],
+    "version": "2.7",
+    "unicode": "f7b1"
   }, 
   "ice-cream-2": {
     "name": "ice-cream-2",
@@ -12809,12 +13747,40 @@
     "version": "1.2",
     "unicode": "eb69"
   }, 
+  "info-circle-filled": {
+    "name": "info-circle-filled",
+    "category": "Filled",
+    "tags": ["info", "circle", "filled", "information", "advice", "news", "tip", "sign", "icon", "stroke", "outline"],
+    "version": "2.2",
+    "unicode": "f6d8"
+  }, 
   "info-circle": {
     "name": "info-circle",
     "category": "",
     "tags": ["info", "circle", "information", "advice", "news", "tip", "sign", "icon", "stroke", "outline"],
     "version": "1.0",
     "unicode": "eac5"
+  }, 
+  "info-hexagon": {
+    "name": "info-hexagon",
+    "category": "",
+    "tags": ["info", "hexagon", "icon", "stroke", "outline"],
+    "version": "2.6",
+    "unicode": "f7aa"
+  }, 
+  "info-octagon": {
+    "name": "info-octagon",
+    "category": "",
+    "tags": ["info", "octagon", "icon", "stroke", "outline"],
+    "version": "2.6",
+    "unicode": "f7ab"
+  }, 
+  "info-square-rounded-filled": {
+    "name": "info-square-rounded-filled",
+    "category": "Filled",
+    "tags": ["info", "square", "rounded", "filled", "icon", "stroke", "outline"],
+    "version": "2.2",
+    "unicode": "f6d9"
   }, 
   "info-square-rounded": {
     "name": "info-square-rounded",
@@ -12830,12 +13796,33 @@
     "version": "1.0",
     "unicode": "eac6"
   }, 
+  "inner-shadow-bottom-filled": {
+    "name": "inner-shadow-bottom-filled",
+    "category": "Filled",
+    "tags": ["inner", "shadow", "bottom", "filled", "shape", "circle", "down", "south", "icon", "stroke", "outline"],
+    "version": "2.4",
+    "unicode": "f757"
+  }, 
+  "inner-shadow-bottom-left-filled": {
+    "name": "inner-shadow-bottom-left-filled",
+    "category": "Filled",
+    "tags": ["inner", "shadow", "bottom", "left", "filled", "shape", "circle", "down", "south", "west", "icon", "stroke", "outline"],
+    "version": "2.4",
+    "unicode": "f758"
+  }, 
   "inner-shadow-bottom-left": {
     "name": "inner-shadow-bottom-left",
     "category": "Design",
     "tags": ["inner", "shadow", "bottom", "left", "shape", "circle", "down", "south", "west", "icon", "stroke", "outline"],
     "version": "1.103",
     "unicode": "f51e"
+  }, 
+  "inner-shadow-bottom-right-filled": {
+    "name": "inner-shadow-bottom-right-filled",
+    "category": "Filled",
+    "tags": ["inner", "shadow", "bottom", "right", "filled", "shape", "circle", "down", "south", "east", "icon", "stroke", "outline"],
+    "version": "2.4",
+    "unicode": "f759"
   }, 
   "inner-shadow-bottom-right": {
     "name": "inner-shadow-bottom-right",
@@ -12851,12 +13838,26 @@
     "version": "1.103",
     "unicode": "f520"
   }, 
+  "inner-shadow-left-filled": {
+    "name": "inner-shadow-left-filled",
+    "category": "Filled",
+    "tags": ["inner", "shadow", "left", "filled", "shape", "circle", "west", "icon", "stroke", "outline"],
+    "version": "2.4",
+    "unicode": "f75a"
+  }, 
   "inner-shadow-left": {
     "name": "inner-shadow-left",
     "category": "Design",
     "tags": ["inner", "shadow", "left", "shape", "circle", "west", "icon", "stroke", "outline"],
     "version": "1.103",
     "unicode": "f521"
+  }, 
+  "inner-shadow-right-filled": {
+    "name": "inner-shadow-right-filled",
+    "category": "Filled",
+    "tags": ["inner", "shadow", "right", "filled", "shape", "circle", "east", "icon", "stroke", "outline"],
+    "version": "2.4",
+    "unicode": "f75b"
   }, 
   "inner-shadow-right": {
     "name": "inner-shadow-right",
@@ -12865,12 +13866,33 @@
     "version": "1.103",
     "unicode": "f522"
   }, 
+  "inner-shadow-top-filled": {
+    "name": "inner-shadow-top-filled",
+    "category": "Filled",
+    "tags": ["inner", "shadow", "top", "filled", "shape", "circle", "up", "north", "icon", "stroke", "outline"],
+    "version": "2.4",
+    "unicode": "f75c"
+  }, 
+  "inner-shadow-top-left-filled": {
+    "name": "inner-shadow-top-left-filled",
+    "category": "Filled",
+    "tags": ["inner", "shadow", "top", "left", "filled", "shape", "circle", "up", "north", "west", "icon", "stroke", "outline"],
+    "version": "2.4",
+    "unicode": "f75d"
+  }, 
   "inner-shadow-top-left": {
     "name": "inner-shadow-top-left",
     "category": "Design",
     "tags": ["inner", "shadow", "top", "left", "shape", "circle", "up", "north", "west", "icon", "stroke", "outline"],
     "version": "1.103",
     "unicode": "f523"
+  }, 
+  "inner-shadow-top-right-filled": {
+    "name": "inner-shadow-top-right-filled",
+    "category": "Filled",
+    "tags": ["inner", "shadow", "top", "right", "filled", "shape", "circle", "up", "north", "east", "icon", "stroke", "outline"],
+    "version": "2.4",
+    "unicode": "f75e"
   }, 
   "inner-shadow-top-right": {
     "name": "inner-shadow-top-right",
@@ -12959,7 +13981,7 @@
   "jewish-star-filled": {
     "name": "jewish-star-filled",
     "category": "Filled",
-    "tags": ["jewish", "star", "filled", "icon", "stroke", "outline"],
+    "tags": ["jewish", "star", "filled", "judaism", "israel", "religion", "bright", "icon", "stroke", "outline"],
     "version": "2.0",
     "unicode": "f67e"
   }, 
@@ -12972,10 +13994,17 @@
   }, 
   "jpg": {
     "name": "jpg",
-    "category": "",
-    "tags": ["jpg", "file", "format", "type", "document", "icon", "stroke", "outline"],
+    "category": "Extensions",
+    "tags": ["jpg", "file", "format", "type", "document", "filetype", "icon", "stroke", "outline"],
     "version": "1.93",
     "unicode": "f3ac"
+  }, 
+  "json": {
+    "name": "json",
+    "category": "Extensions",
+    "tags": ["json", "icon", "stroke", "outline"],
+    "version": "2.7",
+    "unicode": "f7b2"
   }, 
   "jump-rope": {
     "name": "jump-rope",
@@ -13747,6 +14776,13 @@
     "version": "1.0",
     "unicode": "eadd"
   }, 
+  "lighter": {
+    "name": "lighter",
+    "category": "",
+    "tags": ["lighter", "icon", "stroke", "outline"],
+    "version": "2.5",
+    "unicode": "f794"
+  }, 
   "line-dashed": {
     "name": "line-dashed",
     "category": "",
@@ -13883,7 +14919,7 @@
   "location-filled": {
     "name": "location-filled",
     "category": "Filled",
-    "tags": ["location", "filled", "icon", "stroke", "outline"],
+    "tags": ["location", "filled", "navigation", "map", "direction", "discover", "travel", "icon", "stroke", "outline"],
     "version": "2.0",
     "unicode": "f67f"
   }, 
@@ -13935,6 +14971,13 @@
     "tags": ["lock", "open", "security", "password", "secure", "unprotected", "icon", "stroke", "outline"],
     "version": "1.0",
     "unicode": "eae1"
+  }, 
+  "lock-square-rounded-filled": {
+    "name": "lock-square-rounded-filled",
+    "category": "Filled",
+    "tags": ["lock", "square", "rounded", "filled", "icon", "stroke", "outline"],
+    "version": "2.2",
+    "unicode": "f6da"
   }, 
   "lock-square-rounded": {
     "name": "lock-square-rounded",
@@ -14177,7 +15220,7 @@
   "map-pin-filled": {
     "name": "map-pin-filled",
     "category": "Filled",
-    "tags": ["map", "pin", "filled", "icon", "stroke", "outline"],
+    "tags": ["map", "pin", "filled", "navigation", "location", "travel", "pin", "position", "marker", "icon", "stroke", "outline"],
     "version": "2.0",
     "unicode": "f680"
   }, 
@@ -14187,6 +15230,13 @@
     "tags": ["map", "pin", "off", "navigation", "location", "travel", "pin", "position", "marker", "icon", "stroke", "outline"],
     "version": "1.22",
     "unicode": "ecf3"
+  }, 
+  "map-pin-share": {
+    "name": "map-pin-share",
+    "category": "",
+    "tags": ["map", "pin", "share", "icon", "stroke", "outline"],
+    "version": "2.5",
+    "unicode": "f795"
   }, 
   "map-pin": {
     "name": "map-pin",
@@ -14562,7 +15612,7 @@
   "medical-cross-filled": {
     "name": "medical-cross-filled",
     "category": "Filled",
-    "tags": ["medical", "cross", "filled", "icon", "stroke", "outline"],
+    "tags": ["medical", "cross", "filled", "sign", "hospital", "help", "indication", "icon", "stroke", "outline"],
     "version": "2.0",
     "unicode": "f681"
   }, 
@@ -14660,7 +15710,7 @@
   "message-circle-2-filled": {
     "name": "message-circle-2-filled",
     "category": "Filled",
-    "tags": ["message", "circle", "2", "filled", "icon", "stroke", "outline"],
+    "tags": ["message", "circle", "2", "filled", "comment", "chat", "reply", "icon", "stroke", "outline"],
     "version": "2.0",
     "unicode": "f682"
   }, 
@@ -14779,7 +15829,7 @@
   "mickey-filled": {
     "name": "mickey-filled",
     "category": "Filled",
-    "tags": ["mickey", "filled", "icon", "stroke", "outline"],
+    "tags": ["mickey", "filled", "fable", "cartoon", "mouse", "kids", "icon", "stroke", "outline"],
     "version": "2.0",
     "unicode": "f683"
   }, 
@@ -14951,6 +16001,20 @@
     "version": "1.26",
     "unicode": "ed2d"
   }, 
+  "mood-check": {
+    "name": "mood-check",
+    "category": "Mood",
+    "tags": ["mood", "check", "icon", "stroke", "outline"],
+    "version": "2.7",
+    "unicode": "f7b3"
+  }, 
+  "mood-cog": {
+    "name": "mood-cog",
+    "category": "Mood",
+    "tags": ["mood", "cog", "icon", "stroke", "outline"],
+    "version": "2.7",
+    "unicode": "f7b4"
+  }, 
   "mood-confuzed": {
     "name": "mood-confuzed",
     "category": "Mood",
@@ -14972,6 +16036,13 @@
     "version": "1.18",
     "unicode": "ecbb"
   }, 
+  "mood-dollar": {
+    "name": "mood-dollar",
+    "category": "Mood",
+    "tags": ["mood", "dollar", "icon", "stroke", "outline"],
+    "version": "2.7",
+    "unicode": "f7b5"
+  }, 
   "mood-empty": {
     "name": "mood-empty",
     "category": "Mood",
@@ -14985,6 +16056,13 @@
     "tags": ["mood", "happy", "face", "emoji", "emotion", "icon", "stroke", "outline"],
     "version": "1.0",
     "unicode": "eaf4"
+  }, 
+  "mood-heart": {
+    "name": "mood-heart",
+    "category": "Mood",
+    "tags": ["mood", "heart", "icon", "stroke", "outline"],
+    "version": "2.7",
+    "unicode": "f7b6"
   }, 
   "mood-kid": {
     "name": "mood-kid",
@@ -15006,6 +16084,13 @@
     "tags": ["mood", "look", "right", "east", "face", "direction", "icon", "stroke", "outline"],
     "version": "1.81",
     "unicode": "f2c6"
+  }, 
+  "mood-minus": {
+    "name": "mood-minus",
+    "category": "Mood",
+    "tags": ["mood", "minus", "icon", "stroke", "outline"],
+    "version": "2.7",
+    "unicode": "f7b7"
   }, 
   "mood-nerd": {
     "name": "mood-nerd",
@@ -15030,10 +16115,24 @@
   }, 
   "mood-off": {
     "name": "mood-off",
-    "category": "",
+    "category": "Mood",
     "tags": ["mood", "off", "sad", "happy", "emoji", "smiley", "neutral", "face", "icon", "stroke", "outline"],
     "version": "1.66",
     "unicode": "f161"
+  }, 
+  "mood-pin": {
+    "name": "mood-pin",
+    "category": "Mood",
+    "tags": ["mood", "pin", "icon", "stroke", "outline"],
+    "version": "2.7",
+    "unicode": "f7b8"
+  }, 
+  "mood-plus": {
+    "name": "mood-plus",
+    "category": "Mood",
+    "tags": ["mood", "plus", "icon", "stroke", "outline"],
+    "version": "2.7",
+    "unicode": "f7b9"
   }, 
   "mood-sad-2": {
     "name": "mood-sad-2",
@@ -15062,6 +16161,13 @@
     "tags": ["mood", "sad", "face", "emoji", "emotion", "mad", "icon", "stroke", "outline"],
     "version": "1.0",
     "unicode": "eaf6"
+  }, 
+  "mood-search": {
+    "name": "mood-search",
+    "category": "Mood",
+    "tags": ["mood", "search", "icon", "stroke", "outline"],
+    "version": "2.7",
+    "unicode": "f7ba"
   }, 
   "mood-sick": {
     "name": "mood-sick",
@@ -15140,6 +16246,13 @@
     "version": "1.83",
     "unicode": "f2eb"
   }, 
+  "mood-up": {
+    "name": "mood-up",
+    "category": "Mood",
+    "tags": ["mood", "up", "icon", "stroke", "outline"],
+    "version": "2.7",
+    "unicode": "f7bb"
+  }, 
   "mood-wink-2": {
     "name": "mood-wink-2",
     "category": "Mood",
@@ -15161,6 +16274,13 @@
     "version": "1.83",
     "unicode": "f2ee"
   }, 
+  "mood-x": {
+    "name": "mood-x",
+    "category": "Mood",
+    "tags": ["mood", "x", "icon", "stroke", "outline"],
+    "version": "2.7",
+    "unicode": "f7bc"
+  }, 
   "mood-xd": {
     "name": "mood-xd",
     "category": "Mood",
@@ -15178,7 +16298,7 @@
   "moon-filled": {
     "name": "moon-filled",
     "category": "Filled",
-    "tags": ["moon", "filled", "icon", "stroke", "outline"],
+    "tags": ["moon", "filled", "night", "dark mode", "icon", "stroke", "outline"],
     "version": "2.0",
     "unicode": "f684"
   }, 
@@ -15346,7 +16466,7 @@
   "navigation-filled": {
     "name": "navigation-filled",
     "category": "Filled",
-    "tags": ["navigation", "filled", "icon", "stroke", "outline"],
+    "tags": ["navigation", "filled", "map", "location", "direction", "pin", "gps", "icon", "stroke", "outline"],
     "version": "2.0",
     "unicode": "f685"
   }, 
@@ -15605,7 +16725,7 @@
   "octagon-filled": {
     "name": "octagon-filled",
     "category": "Filled",
-    "tags": ["octagon", "filled", "icon", "stroke", "outline"],
+    "tags": ["octagon", "filled", "shape", "geometric", "math", "2d", "building", "government", "icon", "stroke", "outline"],
     "version": "2.0",
     "unicode": "f686"
   }, 
@@ -15675,14 +16795,14 @@
   "oval-filled": {
     "name": "oval-filled",
     "category": "Filled",
-    "tags": ["oval", "filled", "icon", "stroke", "outline"],
+    "tags": ["oval", "filled", "shape", "graphic", "egg", "circle", "zero", "icon", "stroke", "outline"],
     "version": "2.0",
     "unicode": "f687"
   }, 
   "oval-vertical-filled": {
     "name": "oval-vertical-filled",
     "category": "Filled",
-    "tags": ["oval", "vertical", "filled", "icon", "stroke", "outline"],
+    "tags": ["oval", "vertical", "filled", "shape", "graphic", "circle", "icon", "stroke", "outline"],
     "version": "2.0",
     "unicode": "f688"
   }, 
@@ -15707,6 +16827,20 @@
     "version": "1.39",
     "unicode": "eebb"
   }, 
+  "package-export": {
+    "name": "package-export",
+    "category": "",
+    "tags": ["package", "export", "npm", "box", "container", "delivery", "logistic", "icon", "stroke", "outline"],
+    "version": "1.59",
+    "unicode": "f07a"
+  }, 
+  "package-import": {
+    "name": "package-import",
+    "category": "",
+    "tags": ["package", "import", "npm", "box", "container", "delivery", "shipping", "courier", "icon", "stroke", "outline"],
+    "version": "1.59",
+    "unicode": "f07b"
+  }, 
   "package-off": {
     "name": "package-off",
     "category": "E-commerce",
@@ -15728,20 +16862,6 @@
     "version": "1.81",
     "unicode": "f2c9"
   }, 
-  "packge-export": {
-    "name": "packge-export",
-    "category": "",
-    "tags": ["packge", "export", "npm", "box", "container", "delivery", "logistic", "icon", "stroke", "outline"],
-    "version": "1.59",
-    "unicode": "f07a"
-  }, 
-  "packge-import": {
-    "name": "packge-import",
-    "category": "",
-    "tags": ["packge", "import", "npm", "box", "container", "delivery", "shipping", "courier", "icon", "stroke", "outline"],
-    "version": "1.59",
-    "unicode": "f07b"
-  }, 
   "pacman": {
     "name": "pacman",
     "category": "",
@@ -15755,6 +16875,13 @@
     "tags": ["page", "break", "summary", "feature", "element", "css", "icon", "stroke", "outline"],
     "version": "1.14",
     "unicode": "ec81"
+  }, 
+  "paint-filled": {
+    "name": "paint-filled",
+    "category": "Filled",
+    "tags": ["paint", "filled", "brush", "renovation", "refurbishment", "color", "wall", "icon", "stroke", "outline"],
+    "version": "2.4",
+    "unicode": "f75f"
   }, 
   "paint-off": {
     "name": "paint-off",
@@ -15885,7 +17012,7 @@
   "paw-filled": {
     "name": "paw-filled",
     "category": "Filled",
-    "tags": ["paw", "filled", "icon", "stroke", "outline"],
+    "tags": ["paw", "filled", "animal", "dog", "cat", "foot", "pets", "icon", "stroke", "outline"],
     "version": "2.0",
     "unicode": "f689"
   }, 
@@ -15902,6 +17029,13 @@
     "tags": ["paw", "animal", "dog", "cat", "foot", "pets", "icon", "stroke", "outline"],
     "version": "1.52",
     "unicode": "eff9"
+  }, 
+  "pdf": {
+    "name": "pdf",
+    "category": "Extensions",
+    "tags": ["pdf", "icon", "stroke", "outline"],
+    "version": "2.6",
+    "unicode": "f7ac"
   }, 
   "peace": {
     "name": "peace",
@@ -15941,7 +17075,7 @@
   "pennant-2-filled": {
     "name": "pennant-2-filled",
     "category": "Filled",
-    "tags": ["pennant", "2", "filled", "icon", "stroke", "outline"],
+    "tags": ["pennant", "2", "filled", "flag", "ship", "sports", "championship", "mark", "spot", "winner", "icon", "stroke", "outline"],
     "version": "2.0",
     "unicode": "f68a"
   }, 
@@ -15955,7 +17089,7 @@
   "pennant-filled": {
     "name": "pennant-filled",
     "category": "Filled",
-    "tags": ["pennant", "filled", "icon", "stroke", "outline"],
+    "tags": ["pennant", "filled", "flag", "ship", "sports", "championship", "mark", "spot", "winner", "icon", "stroke", "outline"],
     "version": "2.0",
     "unicode": "f68b"
   }, 
@@ -15976,7 +17110,7 @@
   "pentagon-filled": {
     "name": "pentagon-filled",
     "category": "Filled",
-    "tags": ["pentagon", "filled", "icon", "stroke", "outline"],
+    "tags": ["pentagon", "filled", "shape", "figure", "math", "graphic", "geometry", "form", "icon", "stroke", "outline"],
     "version": "2.0",
     "unicode": "f68c"
   }, 
@@ -16176,6 +17310,27 @@
     "version": "1.89",
     "unicode": "f364"
   }, 
+  "photo-sensor-2": {
+    "name": "photo-sensor-2",
+    "category": "",
+    "tags": ["photo", "sensor", "2", "icon", "stroke", "outline"],
+    "version": "2.5",
+    "unicode": "f796"
+  }, 
+  "photo-sensor-3": {
+    "name": "photo-sensor-3",
+    "category": "",
+    "tags": ["photo", "sensor", "3", "icon", "stroke", "outline"],
+    "version": "2.5",
+    "unicode": "f797"
+  }, 
+  "photo-sensor": {
+    "name": "photo-sensor",
+    "category": "",
+    "tags": ["photo", "sensor", "icon", "stroke", "outline"],
+    "version": "2.5",
+    "unicode": "f798"
+  }, 
   "photo-shield": {
     "name": "photo-shield",
     "category": "Media",
@@ -16298,7 +17453,7 @@
   "pin-filled": {
     "name": "pin-filled",
     "category": "Filled",
-    "tags": ["pin", "filled", "icon", "stroke", "outline"],
+    "tags": ["pin", "filled", "thing", "localization", "maps", "clip", "place", "location", "icon", "stroke", "outline"],
     "version": "2.0",
     "unicode": "f68d"
   }, 
@@ -16319,7 +17474,7 @@
   "pinned-filled": {
     "name": "pinned-filled",
     "category": "Filled",
-    "tags": ["pinned", "filled", "icon", "stroke", "outline"],
+    "tags": ["pinned", "filled", "board", "attach", "nail", "pointed", "corkboard", "favourite", "noticeboard", "icon", "stroke", "outline"],
     "version": "2.0",
     "unicode": "f68e"
   }, 
@@ -16459,7 +17614,7 @@
   "player-eject-filled": {
     "name": "player-eject-filled",
     "category": "Filled",
-    "tags": ["player", "eject", "filled", "icon", "stroke", "outline"],
+    "tags": ["player", "eject", "filled", "media", "multimedia", "music", "audio", "control", "figures", "icon", "stroke", "outline"],
     "version": "2.0",
     "unicode": "f68f"
   }, 
@@ -16473,7 +17628,7 @@
   "player-pause-filled": {
     "name": "player-pause-filled",
     "category": "Filled",
-    "tags": ["player", "pause", "filled", "icon", "stroke", "outline"],
+    "tags": ["player", "pause", "filled", "video", "film", "music", "player", "stop", "icon", "stroke", "outline"],
     "version": "2.0",
     "unicode": "f690"
   }, 
@@ -16487,7 +17642,7 @@
   "player-play-filled": {
     "name": "player-play-filled",
     "category": "Filled",
-    "tags": ["player", "play", "filled", "icon", "stroke", "outline"],
+    "tags": ["player", "play", "filled", "start", "video", "film", "music", "player", "icon", "stroke", "outline"],
     "version": "2.0",
     "unicode": "f691"
   }, 
@@ -16501,7 +17656,7 @@
   "player-record-filled": {
     "name": "player-record-filled",
     "category": "Filled",
-    "tags": ["player", "record", "filled", "icon", "stroke", "outline"],
+    "tags": ["player", "record", "filled", "music", "song", "playlist", "melody", "device", "voice", "recorder", "dictation", "machine", "icon", "stroke", "outline"],
     "version": "2.0",
     "unicode": "f692"
   }, 
@@ -16515,7 +17670,7 @@
   "player-skip-back-filled": {
     "name": "player-skip-back-filled",
     "category": "Filled",
-    "tags": ["player", "skip", "back", "filled", "icon", "stroke", "outline"],
+    "tags": ["player", "skip", "back", "filled", "button", "player", "video", "film", "music", "cancel", "rewind", "reverse", "icon", "stroke", "outline"],
     "version": "2.0",
     "unicode": "f693"
   }, 
@@ -16529,7 +17684,7 @@
   "player-skip-forward-filled": {
     "name": "player-skip-forward-filled",
     "category": "Filled",
-    "tags": ["player", "skip", "forward", "filled", "icon", "stroke", "outline"],
+    "tags": ["player", "skip", "forward", "filled", "button", "player", "video", "film", "music", "omit", "icon", "stroke", "outline"],
     "version": "2.0",
     "unicode": "f694"
   }, 
@@ -16543,7 +17698,7 @@
   "player-stop-filled": {
     "name": "player-stop-filled",
     "category": "Filled",
-    "tags": ["player", "stop", "filled", "icon", "stroke", "outline"],
+    "tags": ["player", "stop", "filled", "music", "song", "playlist", "melody", "device", "voice", "silence", "break", "icon", "stroke", "outline"],
     "version": "2.0",
     "unicode": "f695"
   }, 
@@ -16557,7 +17712,7 @@
   "player-track-next-filled": {
     "name": "player-track-next-filled",
     "category": "Filled",
-    "tags": ["player", "track", "next", "filled", "icon", "stroke", "outline"],
+    "tags": ["player", "track", "next", "filled", "music", "forward", "play", "song", "playlist", "icon", "stroke", "outline"],
     "version": "2.0",
     "unicode": "f696"
   }, 
@@ -16571,7 +17726,7 @@
   "player-track-prev-filled": {
     "name": "player-track-prev-filled",
     "category": "Filled",
-    "tags": ["player", "track", "prev", "filled", "icon", "stroke", "outline"],
+    "tags": ["player", "track", "prev", "filled", "music", "forward", "play", "song", "playlist", "icon", "stroke", "outline"],
     "version": "2.0",
     "unicode": "f697"
   }, 
@@ -16673,6 +17828,20 @@
     "version": "1.6",
     "unicode": "ebd9"
   }, 
+  "plus-equal": {
+    "name": "plus-equal",
+    "category": "Math",
+    "tags": ["plus", "equal", "icon", "stroke", "outline"],
+    "version": "2.6",
+    "unicode": "f7ad"
+  }, 
+  "plus-minus": {
+    "name": "plus-minus",
+    "category": "Math",
+    "tags": ["plus", "minus", "icon", "stroke", "outline"],
+    "version": "2.6",
+    "unicode": "f7ae"
+  }, 
   "plus": {
     "name": "plus",
     "category": "Math",
@@ -16682,8 +17851,8 @@
   }, 
   "png": {
     "name": "png",
-    "category": "",
-    "tags": ["png", "file", "format", "type", "document", "icon", "stroke", "outline"],
+    "category": "Extensions",
+    "tags": ["png", "file", "format", "type", "document", "filetype", "icon", "stroke", "outline"],
     "version": "1.93",
     "unicode": "f3ad"
   }, 
@@ -16704,7 +17873,7 @@
   "point-filled": {
     "name": "point-filled",
     "category": "Filled",
-    "tags": ["point", "filled", "icon", "stroke", "outline"],
+    "tags": ["point", "filled", "dot", "label", "icon", "stroke", "outline"],
     "version": "2.0",
     "unicode": "f698"
   }, 
@@ -16900,7 +18069,7 @@
   "puzzle-filled": {
     "name": "puzzle-filled",
     "category": "Filled",
-    "tags": ["puzzle", "filled", "icon", "stroke", "outline"],
+    "tags": ["puzzle", "filled", "jigsaw", "extension", "add-on", "icon", "stroke", "outline"],
     "version": "2.0",
     "unicode": "f699"
   }, 
@@ -17008,6 +18177,13 @@
     "tags": ["radio", "music", "news", "sound", "broadcost", "communication", "station", "icon", "stroke", "outline"],
     "version": "1.41",
     "unicode": "ef2d"
+  }, 
+  "radioactive-filled": {
+    "name": "radioactive-filled",
+    "category": "Filled",
+    "tags": ["radioactive", "filled", "dangerous", "precarious", "danger", "sign", "symbol", "warning", "caution", "chernobyl", "reactor", "atomic", "powerhouses", "generator", "icon", "stroke", "outline"],
+    "version": "2.4",
+    "unicode": "f760"
   }, 
   "radioactive-off": {
     "name": "radioactive-off",
@@ -17173,14 +18349,14 @@
   "rectangle-filled": {
     "name": "rectangle-filled",
     "category": "Filled",
-    "tags": ["rectangle", "filled", "icon", "stroke", "outline"],
+    "tags": ["rectangle", "filled", "shape", "geometric", "math", "icon", "stroke", "outline"],
     "version": "2.0",
     "unicode": "f69a"
   }, 
   "rectangle-vertical-filled": {
     "name": "rectangle-vertical-filled",
     "category": "Filled",
-    "tags": ["rectangle", "vertical", "filled", "icon", "stroke", "outline"],
+    "tags": ["rectangle", "vertical", "filled", "shape", "geometric", "math", "upright", "icon", "stroke", "outline"],
     "version": "2.0",
     "unicode": "f69b"
   }, 
@@ -17313,7 +18489,7 @@
   "replace-filled": {
     "name": "replace-filled",
     "category": "Filled",
-    "tags": ["replace", "filled", "icon", "stroke", "outline"],
+    "tags": ["replace", "filled", "change", "place", "position", "move", "exchange", "icon", "stroke", "outline"],
     "version": "2.0",
     "unicode": "f69c"
   }, 
@@ -17474,7 +18650,7 @@
   "rosette-filled": {
     "name": "rosette-filled",
     "category": "Filled",
-    "tags": ["rosette", "filled", "icon", "stroke", "outline"],
+    "tags": ["rosette", "filled", "shape", "badge", "star", "medal", "icon", "stroke", "outline"],
     "version": "2.0",
     "unicode": "f69d"
   }, 
@@ -18153,7 +19329,7 @@
   "settings-filled": {
     "name": "settings-filled",
     "category": "Filled",
-    "tags": ["settings", "filled", "icon", "stroke", "outline"],
+    "tags": ["settings", "filled", "cog", "edit", "gear", "preferences", "tools", "icon", "stroke", "outline"],
     "version": "2.0",
     "unicode": "f69e"
   }, 
@@ -18213,6 +19389,20 @@
     "version": "1.3",
     "unicode": "eb9c"
   }, 
+  "share-2": {
+    "name": "share-2",
+    "category": "Arrows",
+    "tags": ["share", "2", "icon", "stroke", "outline"],
+    "version": "2.5",
+    "unicode": "f799"
+  }, 
+  "share-3": {
+    "name": "share-3",
+    "category": "Arrows",
+    "tags": ["share", "3", "icon", "stroke", "outline"],
+    "version": "2.7",
+    "unicode": "f7bd"
+  }, 
   "share-off": {
     "name": "share-off",
     "category": "",
@@ -18227,12 +19417,26 @@
     "version": "1.0",
     "unicode": "eb21"
   }, 
+  "shield-check-filled": {
+    "name": "shield-check-filled",
+    "category": "Filled",
+    "tags": ["shield", "check", "filled", "safety", "protect", "protection", "yes", "add", "icon", "stroke", "outline"],
+    "version": "2.4",
+    "unicode": "f761"
+  }, 
   "shield-check": {
     "name": "shield-check",
     "category": "System",
     "tags": ["shield", "check", "safety", "protect", "protection", "yes", "add", "icon", "stroke", "outline"],
     "version": "1.0",
     "unicode": "eb22"
+  }, 
+  "shield-checkered-filled": {
+    "name": "shield-checkered-filled",
+    "category": "Filled",
+    "tags": ["shield", "checkered", "filled", "knight", "guard", "defence", "protect", "icon", "stroke", "outline"],
+    "version": "2.4",
+    "unicode": "f762"
   }, 
   "shield-checkered": {
     "name": "shield-checkered",
@@ -18251,7 +19455,7 @@
   "shield-filled": {
     "name": "shield-filled",
     "category": "Filled",
-    "tags": ["shield", "filled", "icon", "stroke", "outline"],
+    "tags": ["shield", "filled", "safety", "protect", "protection", "icon", "stroke", "outline"],
     "version": "2.0",
     "unicode": "f69f"
   }, 
@@ -18268,6 +19472,13 @@
     "tags": ["shield", "half", "safe", "security", "secure", "safety", "protect", "protection", "icon", "stroke", "outline"],
     "version": "1.88",
     "unicode": "f358"
+  }, 
+  "shield-lock-filled": {
+    "name": "shield-lock-filled",
+    "category": "Filled",
+    "tags": ["shield", "lock", "filled", "secure", "security", "closed", "key", "safety", "icon", "stroke", "outline"],
+    "version": "2.4",
+    "unicode": "f763"
   }, 
   "shield-lock": {
     "name": "shield-lock",
@@ -18314,7 +19525,7 @@
   "shirt-filled": {
     "name": "shirt-filled",
     "category": "Filled",
-    "tags": ["shirt", "filled", "icon", "stroke", "outline"],
+    "tags": ["shirt", "filled", "gear", "outfit", "mocker", "icon", "stroke", "outline"],
     "version": "2.0",
     "unicode": "f6a0"
   }, 
@@ -18412,7 +19623,7 @@
   "sign-left-filled": {
     "name": "sign-left-filled",
     "category": "Filled",
-    "tags": ["sign", "left", "filled", "icon", "stroke", "outline"],
+    "tags": ["sign", "left", "filled", "direction", "west", "navigation", "arrow", "navigate", "icon", "stroke", "outline"],
     "version": "2.0",
     "unicode": "f6a1"
   }, 
@@ -18426,7 +19637,7 @@
   "sign-right-filled": {
     "name": "sign-right-filled",
     "category": "Filled",
-    "tags": ["sign", "right", "filled", "icon", "stroke", "outline"],
+    "tags": ["sign", "right", "filled", "direction", "east", "navigation", "arrow", "navigate", "icon", "stroke", "outline"],
     "version": "2.0",
     "unicode": "f6a2"
   }, 
@@ -18436,6 +19647,13 @@
     "tags": ["sign", "right", "direction", "east", "navigation", "arrow", "navigate", "icon", "stroke", "outline"],
     "version": "1.58",
     "unicode": "f06c"
+  }, 
+  "signal-2g": {
+    "name": "signal-2g",
+    "category": "",
+    "tags": ["signal", "2g", "icon", "stroke", "outline"],
+    "version": "2.5",
+    "unicode": "f79a"
   }, 
   "signal-3g": {
     "name": "signal-3g",
@@ -18640,6 +19858,20 @@
     "version": "1.48",
     "unicode": "efaf"
   }, 
+  "solar-panel-2": {
+    "name": "solar-panel-2",
+    "category": "",
+    "tags": ["solar", "panel", "2", "icon", "stroke", "outline"],
+    "version": "2.7",
+    "unicode": "f7be"
+  }, 
+  "solar-panel": {
+    "name": "solar-panel",
+    "category": "",
+    "tags": ["solar", "panel", "icon", "stroke", "outline"],
+    "version": "2.7",
+    "unicode": "f7bf"
+  }, 
   "sort-0-9": {
     "name": "sort-0-9",
     "category": "Text",
@@ -18783,7 +20015,7 @@
   "spade-filled": {
     "name": "spade-filled",
     "category": "Filled",
-    "tags": ["spade", "filled", "icon", "stroke", "outline"],
+    "tags": ["spade", "filled", "cards", "casino", "poker", "shapes", "gamble", "icon", "stroke", "outline"],
     "version": "2.0",
     "unicode": "f6a3"
   }, 
@@ -18864,6 +20096,76 @@
     "version": "1.72",
     "unicode": "f227"
   }, 
+  "sql": {
+    "name": "sql",
+    "category": "Extensions",
+    "tags": ["sql", "icon", "stroke", "outline"],
+    "version": "2.7",
+    "unicode": "f7c0"
+  }, 
+  "square-0-filled": {
+    "name": "square-0-filled",
+    "category": "Filled",
+    "tags": ["square", "0", "filled", "icon", "stroke", "outline"],
+    "version": "2.4",
+    "unicode": "f764"
+  }, 
+  "square-1-filled": {
+    "name": "square-1-filled",
+    "category": "Filled",
+    "tags": ["square", "1", "filled", "icon", "stroke", "outline"],
+    "version": "2.4",
+    "unicode": "f765"
+  }, 
+  "square-3-filled": {
+    "name": "square-3-filled",
+    "category": "Filled",
+    "tags": ["square", "3", "filled", "icon", "stroke", "outline"],
+    "version": "2.4",
+    "unicode": "f766"
+  }, 
+  "square-4-filled": {
+    "name": "square-4-filled",
+    "category": "Filled",
+    "tags": ["square", "4", "filled", "icon", "stroke", "outline"],
+    "version": "2.4",
+    "unicode": "f767"
+  }, 
+  "square-5-filled": {
+    "name": "square-5-filled",
+    "category": "Filled",
+    "tags": ["square", "5", "filled", "icon", "stroke", "outline"],
+    "version": "2.4",
+    "unicode": "f768"
+  }, 
+  "square-6-filled": {
+    "name": "square-6-filled",
+    "category": "Filled",
+    "tags": ["square", "6", "filled", "icon", "stroke", "outline"],
+    "version": "2.4",
+    "unicode": "f769"
+  }, 
+  "square-7-filled": {
+    "name": "square-7-filled",
+    "category": "Filled",
+    "tags": ["square", "7", "filled", "icon", "stroke", "outline"],
+    "version": "2.4",
+    "unicode": "f76a"
+  }, 
+  "square-8-filled": {
+    "name": "square-8-filled",
+    "category": "Filled",
+    "tags": ["square", "8", "filled", "icon", "stroke", "outline"],
+    "version": "2.4",
+    "unicode": "f76b"
+  }, 
+  "square-9-filled": {
+    "name": "square-9-filled",
+    "category": "Filled",
+    "tags": ["square", "9", "filled", "icon", "stroke", "outline"],
+    "version": "2.4",
+    "unicode": "f76c"
+  }, 
   "square-arrow-down": {
     "name": "square-arrow-down",
     "category": "Arrows",
@@ -18898,6 +20200,13 @@
     "tags": ["square", "asterisk", "shapes", "star", "password", "security", "icon", "stroke", "outline"],
     "version": "1.54",
     "unicode": "f01a"
+  }, 
+  "square-check-filled": {
+    "name": "square-check-filled",
+    "category": "Filled",
+    "tags": ["square", "check", "filled", "checkbox", "yes", "icon", "stroke", "outline"],
+    "version": "2.4",
+    "unicode": "f76d"
   }, 
   "square-check": {
     "name": "square-check",
@@ -18969,12 +20278,26 @@
     "version": "1.30",
     "unicode": "ed59"
   }, 
+  "square-f0-filled": {
+    "name": "square-f0-filled",
+    "category": "Filled",
+    "tags": ["square", "f0", "filled", "shape", "keyboard", "button", "key", "hotkey", "icon", "stroke", "outline"],
+    "version": "2.4",
+    "unicode": "f76e"
+  }, 
   "square-f0": {
     "name": "square-f0",
     "category": "",
     "tags": ["square", "f0", "shape", "keyboard", "button", "key", "hotkey", "icon", "stroke", "outline"],
     "version": "1.103",
     "unicode": "f526"
+  }, 
+  "square-f1-filled": {
+    "name": "square-f1-filled",
+    "category": "Filled",
+    "tags": ["square", "f1", "filled", "shape", "keyboard", "button", "key", "hotkey", "icon", "stroke", "outline"],
+    "version": "2.4",
+    "unicode": "f76f"
   }, 
   "square-f1": {
     "name": "square-f1",
@@ -18983,12 +20306,26 @@
     "version": "1.103",
     "unicode": "f527"
   }, 
+  "square-f2-filled": {
+    "name": "square-f2-filled",
+    "category": "Filled",
+    "tags": ["square", "f2", "filled", "shape", "keyboard", "button", "key", "hotkey", "icon", "stroke", "outline"],
+    "version": "2.4",
+    "unicode": "f770"
+  }, 
   "square-f2": {
     "name": "square-f2",
     "category": "",
     "tags": ["square", "f2", "shape", "keyboard", "button", "key", "hotkey", "icon", "stroke", "outline"],
     "version": "1.103",
     "unicode": "f528"
+  }, 
+  "square-f3-filled": {
+    "name": "square-f3-filled",
+    "category": "Filled",
+    "tags": ["square", "f3", "filled", "shape", "keyboard", "button", "key", "hotkey", "icon", "stroke", "outline"],
+    "version": "2.4",
+    "unicode": "f771"
   }, 
   "square-f3": {
     "name": "square-f3",
@@ -18997,12 +20334,26 @@
     "version": "1.103",
     "unicode": "f529"
   }, 
+  "square-f4-filled": {
+    "name": "square-f4-filled",
+    "category": "Filled",
+    "tags": ["square", "f4", "filled", "shape", "keyboard", "button", "key", "hotkey", "icon", "stroke", "outline"],
+    "version": "2.4",
+    "unicode": "f772"
+  }, 
   "square-f4": {
     "name": "square-f4",
     "category": "",
     "tags": ["square", "f4", "shape", "keyboard", "button", "key", "hotkey", "icon", "stroke", "outline"],
     "version": "1.103",
     "unicode": "f52a"
+  }, 
+  "square-f5-filled": {
+    "name": "square-f5-filled",
+    "category": "Filled",
+    "tags": ["square", "f5", "filled", "shape", "keyboard", "button", "key", "hotkey", "icon", "stroke", "outline"],
+    "version": "2.4",
+    "unicode": "f773"
   }, 
   "square-f5": {
     "name": "square-f5",
@@ -19011,12 +20362,26 @@
     "version": "1.103",
     "unicode": "f52b"
   }, 
+  "square-f6-filled": {
+    "name": "square-f6-filled",
+    "category": "Filled",
+    "tags": ["square", "f6", "filled", "shape", "keyboard", "button", "key", "hotkey", "icon", "stroke", "outline"],
+    "version": "2.4",
+    "unicode": "f774"
+  }, 
   "square-f6": {
     "name": "square-f6",
     "category": "",
     "tags": ["square", "f6", "shape", "keyboard", "button", "key", "hotkey", "icon", "stroke", "outline"],
     "version": "1.103",
     "unicode": "f52c"
+  }, 
+  "square-f7-filled": {
+    "name": "square-f7-filled",
+    "category": "Filled",
+    "tags": ["square", "f7", "filled", "shape", "keyboard", "button", "key", "hotkey", "icon", "stroke", "outline"],
+    "version": "2.4",
+    "unicode": "f775"
   }, 
   "square-f7": {
     "name": "square-f7",
@@ -19025,12 +20390,26 @@
     "version": "1.103",
     "unicode": "f52d"
   }, 
+  "square-f8-filled": {
+    "name": "square-f8-filled",
+    "category": "Filled",
+    "tags": ["square", "f8", "filled", "shape", "keyboard", "button", "key", "hotkey", "icon", "stroke", "outline"],
+    "version": "2.4",
+    "unicode": "f776"
+  }, 
   "square-f8": {
     "name": "square-f8",
     "category": "",
     "tags": ["square", "f8", "shape", "keyboard", "button", "key", "hotkey", "icon", "stroke", "outline"],
     "version": "1.103",
     "unicode": "f52e"
+  }, 
+  "square-f9-filled": {
+    "name": "square-f9-filled",
+    "category": "Filled",
+    "tags": ["square", "f9", "filled", "shape", "keyboard", "button", "key", "hotkey", "icon", "stroke", "outline"],
+    "version": "2.4",
+    "unicode": "f777"
   }, 
   "square-f9": {
     "name": "square-f9",
@@ -19357,7 +20736,7 @@
   "square-rotated-filled": {
     "name": "square-rotated-filled",
     "category": "Filled",
-    "tags": ["square", "rotated", "filled", "icon", "stroke", "outline"],
+    "tags": ["square", "rotated", "filled", "shape", "sign", "geometry", "geometric", "quadrilateral", "rhombus", "icon", "stroke", "outline"],
     "version": "2.0",
     "unicode": "f6a4"
   }, 
@@ -19389,12 +20768,26 @@
     "version": "1.20",
     "unicode": "ecdf"
   }, 
+  "square-rounded-arrow-down-filled": {
+    "name": "square-rounded-arrow-down-filled",
+    "category": "Filled",
+    "tags": ["square", "rounded", "arrow", "down", "filled", "icon", "stroke", "outline"],
+    "version": "2.2",
+    "unicode": "f6db"
+  }, 
   "square-rounded-arrow-down": {
     "name": "square-rounded-arrow-down",
     "category": "",
     "tags": ["square", "rounded", "arrow", "down", "icon", "stroke", "outline"],
     "version": "1.117",
     "unicode": "f639"
+  }, 
+  "square-rounded-arrow-left-filled": {
+    "name": "square-rounded-arrow-left-filled",
+    "category": "Filled",
+    "tags": ["square", "rounded", "arrow", "left", "filled", "icon", "stroke", "outline"],
+    "version": "2.2",
+    "unicode": "f6dc"
   }, 
   "square-rounded-arrow-left": {
     "name": "square-rounded-arrow-left",
@@ -19403,12 +20796,26 @@
     "version": "1.117",
     "unicode": "f63a"
   }, 
+  "square-rounded-arrow-right-filled": {
+    "name": "square-rounded-arrow-right-filled",
+    "category": "Filled",
+    "tags": ["square", "rounded", "arrow", "right", "filled", "icon", "stroke", "outline"],
+    "version": "2.2",
+    "unicode": "f6dd"
+  }, 
   "square-rounded-arrow-right": {
     "name": "square-rounded-arrow-right",
     "category": "",
     "tags": ["square", "rounded", "arrow", "right", "icon", "stroke", "outline"],
     "version": "1.117",
     "unicode": "f63b"
+  }, 
+  "square-rounded-arrow-up-filled": {
+    "name": "square-rounded-arrow-up-filled",
+    "category": "Filled",
+    "tags": ["square", "rounded", "arrow", "up", "filled", "icon", "stroke", "outline"],
+    "version": "2.2",
+    "unicode": "f6de"
   }, 
   "square-rounded-arrow-up": {
     "name": "square-rounded-arrow-up",
@@ -19417,12 +20824,26 @@
     "version": "1.117",
     "unicode": "f63c"
   }, 
+  "square-rounded-check-filled": {
+    "name": "square-rounded-check-filled",
+    "category": "Filled",
+    "tags": ["square", "rounded", "check", "filled", "icon", "stroke", "outline"],
+    "version": "2.2",
+    "unicode": "f6df"
+  }, 
   "square-rounded-check": {
     "name": "square-rounded-check",
     "category": "",
     "tags": ["square", "rounded", "check", "icon", "stroke", "outline"],
     "version": "1.117",
     "unicode": "f63d"
+  }, 
+  "square-rounded-chevron-down-filled": {
+    "name": "square-rounded-chevron-down-filled",
+    "category": "Filled",
+    "tags": ["square", "rounded", "chevron", "down", "filled", "icon", "stroke", "outline"],
+    "version": "2.2",
+    "unicode": "f6e0"
   }, 
   "square-rounded-chevron-down": {
     "name": "square-rounded-chevron-down",
@@ -19431,12 +20852,26 @@
     "version": "1.116",
     "unicode": "f62b"
   }, 
+  "square-rounded-chevron-left-filled": {
+    "name": "square-rounded-chevron-left-filled",
+    "category": "Filled",
+    "tags": ["square", "rounded", "chevron", "left", "filled", "icon", "stroke", "outline"],
+    "version": "2.2",
+    "unicode": "f6e1"
+  }, 
   "square-rounded-chevron-left": {
     "name": "square-rounded-chevron-left",
     "category": "Arrows",
     "tags": ["square", "rounded", "chevron", "left", "icon", "stroke", "outline"],
     "version": "1.116",
     "unicode": "f62c"
+  }, 
+  "square-rounded-chevron-right-filled": {
+    "name": "square-rounded-chevron-right-filled",
+    "category": "Filled",
+    "tags": ["square", "rounded", "chevron", "right", "filled", "icon", "stroke", "outline"],
+    "version": "2.2",
+    "unicode": "f6e2"
   }, 
   "square-rounded-chevron-right": {
     "name": "square-rounded-chevron-right",
@@ -19445,12 +20880,26 @@
     "version": "1.116",
     "unicode": "f62d"
   }, 
+  "square-rounded-chevron-up-filled": {
+    "name": "square-rounded-chevron-up-filled",
+    "category": "Filled",
+    "tags": ["square", "rounded", "chevron", "up", "filled", "icon", "stroke", "outline"],
+    "version": "2.2",
+    "unicode": "f6e3"
+  }, 
   "square-rounded-chevron-up": {
     "name": "square-rounded-chevron-up",
     "category": "Arrows",
     "tags": ["square", "rounded", "chevron", "up", "icon", "stroke", "outline"],
     "version": "1.116",
     "unicode": "f62e"
+  }, 
+  "square-rounded-chevrons-down-filled": {
+    "name": "square-rounded-chevrons-down-filled",
+    "category": "Filled",
+    "tags": ["square", "rounded", "chevrons", "down", "filled", "icon", "stroke", "outline"],
+    "version": "2.2",
+    "unicode": "f6e4"
   }, 
   "square-rounded-chevrons-down": {
     "name": "square-rounded-chevrons-down",
@@ -19459,6 +20908,13 @@
     "version": "1.118",
     "unicode": "f64f"
   }, 
+  "square-rounded-chevrons-left-filled": {
+    "name": "square-rounded-chevrons-left-filled",
+    "category": "Filled",
+    "tags": ["square", "rounded", "chevrons", "left", "filled", "icon", "stroke", "outline"],
+    "version": "2.2",
+    "unicode": "f6e5"
+  }, 
   "square-rounded-chevrons-left": {
     "name": "square-rounded-chevrons-left",
     "category": "Arrows",
@@ -19466,12 +20922,26 @@
     "version": "1.118",
     "unicode": "f650"
   }, 
+  "square-rounded-chevrons-right-filled": {
+    "name": "square-rounded-chevrons-right-filled",
+    "category": "Filled",
+    "tags": ["square", "rounded", "chevrons", "right", "filled", "icon", "stroke", "outline"],
+    "version": "2.2",
+    "unicode": "f6e6"
+  }, 
   "square-rounded-chevrons-right": {
     "name": "square-rounded-chevrons-right",
     "category": "Arrows",
     "tags": ["square", "rounded", "chevrons", "right", "icon", "stroke", "outline"],
     "version": "1.118",
     "unicode": "f651"
+  }, 
+  "square-rounded-chevrons-up-filled": {
+    "name": "square-rounded-chevrons-up-filled",
+    "category": "Filled",
+    "tags": ["square", "rounded", "chevrons", "up", "filled", "icon", "stroke", "outline"],
+    "version": "2.2",
+    "unicode": "f6e7"
   }, 
   "square-rounded-chevrons-up": {
     "name": "square-rounded-chevrons-up",
@@ -19483,7 +20953,7 @@
   "square-rounded-filled": {
     "name": "square-rounded-filled",
     "category": "Filled",
-    "tags": ["square", "rounded", "filled", "icon", "stroke", "outline"],
+    "tags": ["square", "rounded", "filled", "shape", "box", "figure", "geometry", "icon", "stroke", "outline"],
     "version": "2.0",
     "unicode": "f6a5"
   }, 
@@ -19676,12 +21146,26 @@
     "version": "1.117",
     "unicode": "f63e"
   }, 
+  "square-rounded-number-0-filled": {
+    "name": "square-rounded-number-0-filled",
+    "category": "Filled",
+    "tags": ["square", "rounded", "number", "0", "filled", "shape", "number", "digit", "icon", "stroke", "outline"],
+    "version": "2.4",
+    "unicode": "f778"
+  }, 
   "square-rounded-number-0": {
     "name": "square-rounded-number-0",
     "category": "Numbers",
     "tags": ["square", "rounded", "number", "0", "shape", "number", "digit", "icon", "stroke", "outline"],
     "version": "1.111",
     "unicode": "f5c8"
+  }, 
+  "square-rounded-number-1-filled": {
+    "name": "square-rounded-number-1-filled",
+    "category": "Filled",
+    "tags": ["square", "rounded", "number", "1", "filled", "shape", "number", "digit", "icon", "stroke", "outline"],
+    "version": "2.4",
+    "unicode": "f779"
   }, 
   "square-rounded-number-1": {
     "name": "square-rounded-number-1",
@@ -19690,12 +21174,26 @@
     "version": "1.111",
     "unicode": "f5c9"
   }, 
+  "square-rounded-number-2-filled": {
+    "name": "square-rounded-number-2-filled",
+    "category": "Filled",
+    "tags": ["square", "rounded", "number", "2", "filled", "shape", "number", "digit", "icon", "stroke", "outline"],
+    "version": "2.4",
+    "unicode": "f77a"
+  }, 
   "square-rounded-number-2": {
     "name": "square-rounded-number-2",
     "category": "Numbers",
     "tags": ["square", "rounded", "number", "2", "shape", "number", "digit", "icon", "stroke", "outline"],
     "version": "1.111",
     "unicode": "f5ca"
+  }, 
+  "square-rounded-number-3-filled": {
+    "name": "square-rounded-number-3-filled",
+    "category": "Filled",
+    "tags": ["square", "rounded", "number", "3", "filled", "shape", "number", "digit", "icon", "stroke", "outline"],
+    "version": "2.4",
+    "unicode": "f77b"
   }, 
   "square-rounded-number-3": {
     "name": "square-rounded-number-3",
@@ -19704,12 +21202,26 @@
     "version": "1.111",
     "unicode": "f5cb"
   }, 
+  "square-rounded-number-4-filled": {
+    "name": "square-rounded-number-4-filled",
+    "category": "Filled",
+    "tags": ["square", "rounded", "number", "4", "filled", "shape", "number", "digit", "icon", "stroke", "outline"],
+    "version": "2.4",
+    "unicode": "f77c"
+  }, 
   "square-rounded-number-4": {
     "name": "square-rounded-number-4",
     "category": "Numbers",
     "tags": ["square", "rounded", "number", "4", "shape", "number", "digit", "icon", "stroke", "outline"],
     "version": "1.111",
     "unicode": "f5cc"
+  }, 
+  "square-rounded-number-5-filled": {
+    "name": "square-rounded-number-5-filled",
+    "category": "Filled",
+    "tags": ["square", "rounded", "number", "5", "filled", "shape", "number", "digit", "icon", "stroke", "outline"],
+    "version": "2.4",
+    "unicode": "f77d"
   }, 
   "square-rounded-number-5": {
     "name": "square-rounded-number-5",
@@ -19718,12 +21230,26 @@
     "version": "1.111",
     "unicode": "f5cd"
   }, 
+  "square-rounded-number-6-filled": {
+    "name": "square-rounded-number-6-filled",
+    "category": "Filled",
+    "tags": ["square", "rounded", "number", "6", "filled", "shape", "number", "digit", "icon", "stroke", "outline"],
+    "version": "2.4",
+    "unicode": "f77e"
+  }, 
   "square-rounded-number-6": {
     "name": "square-rounded-number-6",
     "category": "Numbers",
     "tags": ["square", "rounded", "number", "6", "shape", "number", "digit", "icon", "stroke", "outline"],
     "version": "1.111",
     "unicode": "f5ce"
+  }, 
+  "square-rounded-number-7-filled": {
+    "name": "square-rounded-number-7-filled",
+    "category": "Filled",
+    "tags": ["square", "rounded", "number", "7", "filled", "shape", "number", "digit", "icon", "stroke", "outline"],
+    "version": "2.4",
+    "unicode": "f77f"
   }, 
   "square-rounded-number-7": {
     "name": "square-rounded-number-7",
@@ -19732,12 +21258,26 @@
     "version": "1.111",
     "unicode": "f5cf"
   }, 
+  "square-rounded-number-8-filled": {
+    "name": "square-rounded-number-8-filled",
+    "category": "Filled",
+    "tags": ["square", "rounded", "number", "8", "filled", "shape", "number", "digit", "icon", "stroke", "outline"],
+    "version": "2.4",
+    "unicode": "f780"
+  }, 
   "square-rounded-number-8": {
     "name": "square-rounded-number-8",
     "category": "Numbers",
     "tags": ["square", "rounded", "number", "8", "shape", "number", "digit", "icon", "stroke", "outline"],
     "version": "1.111",
     "unicode": "f5d0"
+  }, 
+  "square-rounded-number-9-filled": {
+    "name": "square-rounded-number-9-filled",
+    "category": "Filled",
+    "tags": ["square", "rounded", "number", "9", "filled", "shape", "number", "digit", "icon", "stroke", "outline"],
+    "version": "2.4",
+    "unicode": "f781"
   }, 
   "square-rounded-number-9": {
     "name": "square-rounded-number-9",
@@ -19746,12 +21286,26 @@
     "version": "1.111",
     "unicode": "f5d1"
   }, 
+  "square-rounded-plus-filled": {
+    "name": "square-rounded-plus-filled",
+    "category": "Filled",
+    "tags": ["square", "rounded", "plus", "filled", "icon", "stroke", "outline"],
+    "version": "2.2",
+    "unicode": "f6e8"
+  }, 
   "square-rounded-plus": {
     "name": "square-rounded-plus",
     "category": "",
     "tags": ["square", "rounded", "plus", "icon", "stroke", "outline"],
     "version": "1.117",
     "unicode": "f63f"
+  }, 
+  "square-rounded-x-filled": {
+    "name": "square-rounded-x-filled",
+    "category": "Filled",
+    "tags": ["square", "rounded", "x", "filled", "icon", "stroke", "outline"],
+    "version": "2.2",
+    "unicode": "f6e9"
   }, 
   "square-rounded-x": {
     "name": "square-rounded-x",
@@ -19868,14 +21422,14 @@
   "star-filled": {
     "name": "star-filled",
     "category": "Filled",
-    "tags": ["star", "filled", "icon", "stroke", "outline"],
+    "tags": ["star", "filled", "favorite", "like", "mark", "bookmark", "grade", "icon", "stroke", "outline"],
     "version": "2.0",
     "unicode": "f6a6"
   }, 
   "star-half-filled": {
     "name": "star-half-filled",
     "category": "Filled",
-    "tags": ["star", "half", "filled", "icon", "stroke", "outline"],
+    "tags": ["star", "half", "filled", "favorite", "like", "mark", "bookmark", "grade", "icon", "stroke", "outline"],
     "version": "2.0",
     "unicode": "f6a7"
   }, 
@@ -19903,7 +21457,7 @@
   "stars-filled": {
     "name": "stars-filled",
     "category": "Filled",
-    "tags": ["stars", "filled", "icon", "stroke", "outline"],
+    "tags": ["stars", "filled", "favorite", "like", "mark", "grade", "bookmark", "grade", "space", "universe", "extraterrestrial", "galaxy", "icon", "stroke", "outline"],
     "version": "2.0",
     "unicode": "f6a8"
   }, 
@@ -20057,7 +21611,7 @@
   "sun-filled": {
     "name": "sun-filled",
     "category": "Filled",
-    "tags": ["sun", "filled", "icon", "stroke", "outline"],
+    "tags": ["sun", "filled", "weather", "light", "mode", "brightness", "icon", "stroke", "outline"],
     "version": "2.0",
     "unicode": "f6a9"
   }, 
@@ -20140,8 +21694,8 @@
   }, 
   "svg": {
     "name": "svg",
-    "category": "",
-    "tags": ["svg", "file", "format", "extension", "graphic", "icon", "stroke", "outline"],
+    "category": "Extensions",
+    "tags": ["svg", "file", "format", "extension", "graphic", "filetype", "icon", "stroke", "outline"],
     "version": "1.75",
     "unicode": "f25a"
   }, 
@@ -20228,6 +21782,13 @@
     "tags": ["table", "export", "spreadsheet", "layout", "grid", "arrange", "row", "column", "cells", "sheet", "arrow", "icon", "stroke", "outline"],
     "version": "1.39",
     "unicode": "eef8"
+  }, 
+  "table-filled": {
+    "name": "table-filled",
+    "category": "Filled",
+    "tags": ["table", "filled", "spreadsheet", "layout", "grid", "arrange", "row", "column", "icon", "stroke", "outline"],
+    "version": "2.4",
+    "unicode": "f782"
   }, 
   "table-import": {
     "name": "table-import",
@@ -20484,7 +22045,7 @@
   "tex": {
     "name": "tex",
     "category": "Text",
-    "tags": ["tex", "file", "document", "type", "format", "icon", "stroke", "outline"],
+    "tags": ["tex", "file", "document", "type", "format", "filetype", "icon", "stroke", "outline"],
     "version": "1.99",
     "unicode": "f4e0"
   }, 
@@ -20593,6 +22154,13 @@
     "version": "1.102",
     "unicode": "f51b"
   }, 
+  "theater": {
+    "name": "theater",
+    "category": "",
+    "tags": ["theater", "icon", "stroke", "outline"],
+    "version": "2.5",
+    "unicode": "f79b"
+  }, 
   "thermometer": {
     "name": "thermometer",
     "category": "Health",
@@ -20603,7 +22171,7 @@
   "thumb-down-filled": {
     "name": "thumb-down-filled",
     "category": "Filled",
-    "tags": ["thumb", "down", "filled", "icon", "stroke", "outline"],
+    "tags": ["thumb", "down", "filled", "dislike", "bad", "emotion", "icon", "stroke", "outline"],
     "version": "2.0",
     "unicode": "f6aa"
   }, 
@@ -20624,7 +22192,7 @@
   "thumb-up-filled": {
     "name": "thumb-up-filled",
     "category": "Filled",
-    "tags": ["thumb", "up", "filled", "icon", "stroke", "outline"],
+    "tags": ["thumb", "up", "filled", "like", "emotion", "good", "love", "icon", "stroke", "outline"],
     "version": "2.0",
     "unicode": "f6ab"
   }, 
@@ -21030,7 +22598,7 @@
   "transform-filled": {
     "name": "transform-filled",
     "category": "Filled",
-    "tags": ["transform", "filled", "icon", "stroke", "outline"],
+    "tags": ["transform", "filled", "change", "convert", "adaptation", "direction", "icon", "stroke", "outline"],
     "version": "2.0",
     "unicode": "f6ac"
   }, 
@@ -21069,12 +22637,26 @@
     "version": "1.80",
     "unicode": "f2b5"
   }, 
+  "trash-filled": {
+    "name": "trash-filled",
+    "category": "Filled",
+    "tags": ["trash", "filled", "garbage", "delete", "remove", "bin", "ash-bin", "uninstall", "dustbin", "icon", "stroke", "outline"],
+    "version": "2.4",
+    "unicode": "f783"
+  }, 
   "trash-off": {
     "name": "trash-off",
     "category": "System",
     "tags": ["trash", "off", "garbage", "delete", "remove", "bin", "ash-bin", "uninstall", "dustbin", "icon", "stroke", "outline"],
     "version": "1.31",
     "unicode": "ed65"
+  }, 
+  "trash-x-filled": {
+    "name": "trash-x-filled",
+    "category": "Filled",
+    "tags": ["trash", "x", "filled", "bin", "litter", "recycle", "remove", "delete", "throw", "away", "waste", "icon", "stroke", "outline"],
+    "version": "2.4",
+    "unicode": "f784"
   }, 
   "trash-x": {
     "name": "trash-x",
@@ -21156,14 +22738,14 @@
   "triangle-filled": {
     "name": "triangle-filled",
     "category": "Filled",
-    "tags": ["triangle", "filled", "icon", "stroke", "outline"],
+    "tags": ["triangle", "filled", "delta", "icon", "stroke", "outline"],
     "version": "2.0",
     "unicode": "f6ad"
   }, 
   "triangle-inverted-filled": {
     "name": "triangle-inverted-filled",
     "category": "Filled",
-    "tags": ["triangle", "inverted", "filled", "icon", "stroke", "outline"],
+    "tags": ["triangle", "inverted", "filled", "shape", "geometry", "geometric", "graphic", "pyramid", "design", "icon", "stroke", "outline"],
     "version": "2.0",
     "unicode": "f6ae"
   }, 
@@ -21219,7 +22801,7 @@
   "trophy-filled": {
     "name": "trophy-filled",
     "category": "Filled",
-    "tags": ["trophy", "filled", "icon", "stroke", "outline"],
+    "tags": ["trophy", "filled", "success", "win", "prize", "winner", "icon", "stroke", "outline"],
     "version": "2.0",
     "unicode": "f6af"
   }, 
@@ -21281,8 +22863,8 @@
   }, 
   "txt": {
     "name": "txt",
-    "category": "",
-    "tags": ["txt", "file", "format", "type", "document", "icon", "stroke", "outline"],
+    "category": "Extensions",
+    "tags": ["txt", "file", "format", "type", "document", "filetype", "icon", "stroke", "outline"],
     "version": "1.93",
     "unicode": "f3b1"
   }, 
@@ -21317,7 +22899,7 @@
   "umbrella-filled": {
     "name": "umbrella-filled",
     "category": "Filled",
-    "tags": ["umbrella", "filled", "icon", "stroke", "outline"],
+    "tags": ["umbrella", "filled", "rain", "weather", "storm", "wet", "autumn", "fall", "icon", "stroke", "outline"],
     "version": "2.0",
     "unicode": "f6b0"
   }, 
@@ -21590,7 +23172,7 @@
   "versions-filled": {
     "name": "versions-filled",
     "category": "Filled",
-    "tags": ["versions", "filled", "icon", "stroke", "outline"],
+    "tags": ["versions", "filled", "app", "variation", "different", "variant", "alternative", "icon", "stroke", "outline"],
     "version": "2.0",
     "unicode": "f6b1"
   }, 
@@ -21733,6 +23315,13 @@
     "tags": ["vocabulary", "language", "traffic", "text", "book", "study", "dictionary", "icon", "stroke", "outline"],
     "version": "1.40",
     "unicode": "ef1e"
+  }, 
+  "volcano": {
+    "name": "volcano",
+    "category": "",
+    "tags": ["volcano", "icon", "stroke", "outline"],
+    "version": "2.5",
+    "unicode": "f79c"
   }, 
   "volume-2": {
     "name": "volume-2",
@@ -22129,7 +23718,7 @@
   "windmill-filled": {
     "name": "windmill-filled",
     "category": "Filled",
-    "tags": ["windmill", "filled", "icon", "stroke", "outline"],
+    "tags": ["windmill", "filled", "generate", "power", "blade", "energy", "electricity", "icon", "stroke", "outline"],
     "version": "2.0",
     "unicode": "f6b2"
   }, 
@@ -22329,6 +23918,13 @@
     "version": "1.80",
     "unicode": "f2b9"
   }, 
+  "yin-yang-filled": {
+    "name": "yin-yang-filled",
+    "category": "Filled",
+    "tags": ["yin", "yang", "filled", "equality", "good", "evil", "balance", "peace", "icon", "stroke", "outline"],
+    "version": "2.4",
+    "unicode": "f785"
+  }, 
   "yin-yang": {
     "name": "yin-yang",
     "category": "Symbols",
@@ -22359,8 +23955,8 @@
   }, 
   "zip": {
     "name": "zip",
-    "category": "",
-    "tags": ["zip", "file", "document", "folder", "compress", "archive", "icon", "stroke", "outline"],
+    "category": "Extensions",
+    "tags": ["zip", "file", "document", "folder", "compress", "archive", "filetype", "icon", "stroke", "outline"],
     "version": "1.93",
     "unicode": "f3b4"
   }, 
@@ -22455,6 +24051,13 @@
     "version": "1.11",
     "unicode": "ec4d"
   }, 
+  "zoom-check-filled": {
+    "name": "zoom-check-filled",
+    "category": "Filled",
+    "tags": ["zoom", "check", "filled", "verify", "magnifying", "glass", "magnifier", "ok", "done", "icon", "stroke", "outline"],
+    "version": "2.4",
+    "unicode": "f786"
+  }, 
   "zoom-check": {
     "name": "zoom-check",
     "category": "Map",
@@ -22476,12 +24079,33 @@
     "version": "1.59",
     "unicode": "f080"
   }, 
+  "zoom-filled": {
+    "name": "zoom-filled",
+    "category": "Filled",
+    "tags": ["zoom", "filled", "icon", "stroke", "outline"],
+    "version": "2.4",
+    "unicode": "f787"
+  }, 
+  "zoom-in-area-filled": {
+    "name": "zoom-in-area-filled",
+    "category": "Filled",
+    "tags": ["zoom", "in", "area", "filled", "selected", "square", "magnifier", "enlargement", "icon", "stroke", "outline"],
+    "version": "2.4",
+    "unicode": "f788"
+  }, 
   "zoom-in-area": {
     "name": "zoom-in-area",
     "category": "Map",
     "tags": ["zoom", "in", "area", "selected", "square", "magnifier", "enlargement", "icon", "stroke", "outline"],
     "version": "1.68",
     "unicode": "f1dc"
+  }, 
+  "zoom-in-filled": {
+    "name": "zoom-in-filled",
+    "category": "Filled",
+    "tags": ["zoom", "in", "filled", "magnifying glass", "icon", "stroke", "outline"],
+    "version": "2.4",
+    "unicode": "f789"
   }, 
   "zoom-in": {
     "name": "zoom-in",
@@ -22503,6 +24127,13 @@
     "tags": ["zoom", "out", "area", "selected", "square", "magnifier", "diminishing", "icon", "stroke", "outline"],
     "version": "1.68",
     "unicode": "f1dd"
+  }, 
+  "zoom-out-filled": {
+    "name": "zoom-out-filled",
+    "category": "Filled",
+    "tags": ["zoom", "out", "filled", "magnifying glass", "icon", "stroke", "outline"],
+    "version": "2.4",
+    "unicode": "f78a"
   }, 
   "zoom-out": {
     "name": "zoom-out",

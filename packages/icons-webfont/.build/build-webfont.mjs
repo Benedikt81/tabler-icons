@@ -6,7 +6,7 @@ import { getPackageDir, getPackageJson, PACKAGES_DIR } from '../../../.build/hel
 const formats = ['ttf', 'eot', 'woff', 'woff2']
 const p = getPackageJson()
 const DIR = getPackageDir('icons-webfont')
-const fontHeight = 768
+const fontHeight = 1000
 
 webfont({
   files: 'icons-outlined/*.svg',
@@ -16,8 +16,8 @@ webfont({
   normalize: true,
   fontHeight,
   descent: 100,
-  ascent: 986.5,
-  fixedWidth: true
+  ascent: 900,
+  fixedWidth: false
 })
     .then((result) => {
       formats.forEach(format => {

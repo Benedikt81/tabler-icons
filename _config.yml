@@ -9,16 +9,10 @@ plugins:
 exclude:
   - .idea
   - package.json
-
-defaults:
-  - scope:
-      type: "icons"
-    values:
-      layout: icon
-      in-bg: true
-      tags: []
-      permalink: 'icons/:slug'
+  - index.html
+  - tags.json
+  - tags.html
 
 collections:
   icons:
-    output: true
+    output: false

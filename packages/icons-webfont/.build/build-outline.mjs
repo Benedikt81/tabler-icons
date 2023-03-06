@@ -19,8 +19,8 @@ const buildOutline = async () => {
         await console.log('Stroke for:', name, unicode)
 
         contents = contents
-            .replace('width="24"', 'width="768"')
-            .replace('height="24"', 'height="768"')
+            .replace('width="24"', 'width="1000"')
+            .replace('height="24"', 'height="1000"')
 
         if (compileOptions.strokeWidth) {
           contents = contents
@@ -28,11 +28,11 @@ const buildOutline = async () => {
         }
 
         await outlineStroke(contents, {
-          optCurve: false,
+          optCurve: true,
           steps: 4,
           round: 0,
           centerHorizontally: true,
-          fixedWidth: true,
+          fixedWidth: false,
           color: 'black'
         }).then(outlined => {
           if (unicode) {

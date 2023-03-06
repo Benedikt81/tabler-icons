@@ -1,6 +1,6 @@
 {
   "name": "tabler-icons",
-  "version": "2.1.2",
+  "version": "2.7.0",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/tabler/tabler-icons.git"
@@ -11,12 +11,12 @@
     "access": "public"
   },
   "scripts": {
-    "start": "bundle exec jekyll serve --watch --livereload --trace --livereload_port 8888",
+    "start": "bundle exec jekyll serve --watch --livereload --trace --livereload_port 8888 --profile",
     "build": "pnpm run optimize && pnpm run update && pnpm run build:svgs && pnpm run build:icons && pnpm run build:packages && pnpm run preview && pnpm run changelog-image && pnpm run zip && pnpm run update-readme",
     "clean": "turbo run clean",
     "test": "turbo run test",
     "changelog": "node ./.build/changelog.mjs",
-    "changelog-commit": "node ./.build/changelog-commit.mjs",
+    "changelog-commit": "git add . && node ./.build/changelog-commit.mjs",
     "changelog-image": "node ./.build/changelog-image.mjs",
     "check-unicodes": "node ./.build/check-icons-unicodes.mjs",
     "update": "pnpm run update:icons-version && pnpm run update:icons-unicode && pnpm run check-unicodes",
@@ -31,7 +31,7 @@
     "preview-stroke": "node ./.build/preview-stroke.mjs",
     "release": "git pull && release-it --verbose",
     "build:svgs": "pnpm run build:jekyll && pnpm run build:copy",
-    "build:jekyll": "bundle exec jekyll build",
+    "build:jekyll": "bundle exec jekyll build --config _config.yml,_config-build.yml",
     "build:copy": "rm -rf ./icons && mkdir ./icons && cp ./_site/tags.json tags.json && cp ./_site/icons/* ./icons/ && rm -rf ./_site/",
     "build:icons": "pnpm --filter @tabler/icons build",
     "build:packages": "pnpm run build:react && pnpm run build:preact && pnpm run build:solidjs && pnpm run build:svelte && pnpm run build:vue && pnpm run build:png && pnpm run build:pdf && pnpm run build:esp && pnpm run build:webfont",
@@ -48,6 +48,7 @@
     "zip": "node ./.build/zip-files.mjs"
   },
   "devDependencies": {
+    "@atomico/rollup-plugin-sizes": "^1.1.4",
     "@babel/cli": "^7.20.7",
     "@babel/core": "7.11.6",
     "@babel/parser": "7.11.5",
@@ -64,6 +65,7 @@
     "adm-zip": "^0.5.10",
     "cheerio": "^1.0.0-rc.12",
     "csv-parser": "^3.0.0",
+    "esbuild": "^0.17.5",
     "fs-extra": "^10.1.0",
     "glob": "7.1.6",
     "html-minifier": "^4.0.0",
@@ -74,12 +76,12 @@
     "prettier": "^2.8.1",
     "release-it": "15.6.0",
     "rollup": "2.78.1",
+    "rollup-plugin-esbuild": "^4.10.2",
     "rollup-plugin-filesize": "9.1.2",
+    "rollup-plugin-license": "^3.0.1",
     "rollup-plugin-peer-deps-external": "2.2.4",
     "rollup-plugin-rename": "^1.0.1",
     "rollup-plugin-terser": "7.0.2",
-    "rollup-plugin-esbuild": "^4.10.2",
-    "rollup-plugin-license": "^3.0.1",
     "rollup-plugin-visualizer": "^5.8.3",
     "svg-outline-stroke": "1.3.1",
     "svgo": "^2.8.0",

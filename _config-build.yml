@@ -1,0 +1,16 @@
+defaults:
+  - scope:
+      type: "icons"
+    values:
+      layout: icon
+      in-bg: true
+      tags: []
+      permalink: 'icons/:slug'
+
+collections:
+  icons:
+    output: true
+
+exclude:
+  - .idea
+  - package.json
